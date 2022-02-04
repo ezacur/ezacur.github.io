@@ -1,6 +1,16 @@
 ## Welcome to GitHub Pages
 
 This is Ernesto's personal webpage.
+
+# List of papers
+
+1. Paper 1, **1** [doi](doi.org/123123.12312.31)
+2. paper 2 _awarded_.
+3. paper 3
+
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
