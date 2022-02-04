@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
-
-This is Ernesto's personal webpage.
+# Ernesto's personal webpage
 
 # List of papers in Journals
-
 
 1. Banerjee, **Zacur**, De Maria, Choudhury, Grau, "Anatomically Fused CMR and Angiography 3D Coronary Trees for Blood Supply Assessment on Ischemic Conditions", IEEE Transactions on Medical Imaging(submitted).
 
