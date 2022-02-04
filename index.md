@@ -1,19 +1,19 @@
-# Ernesto's personal webpage
-
 # Education
 
-* 2002
-    > BSc in Physics
-
-* 2003
-    > MSc in Physics
-
-* 2014
+* **2014**
     > PhD
     >
     > University of Zaragoza
     >
     > (awarded with the **Extraordinary Doctorate Award**)
+
+
+* **2003**
+    > MSc in Physics
+
+
+* **2002**
+    > BSc in Physics
 
 
 
@@ -23,7 +23,7 @@
 
 1. Banerjee, **Zacur**, De Maria, Choudhury, Grau, "Anatomically Fused CMR and Angiography 3D Coronary Trees for Blood Supply Assessment on Ischemic Conditions", IEEE Transactions on Medical Imaging(submitted).
 
-1. Paper 1, **1** [doi](doi.org/123123.12312.31)
+1. Paper 1, **1** [doi](doi.org/123123.12312.31) [pdf]()
 1. paper 2 _awarded_.
 1. paper 3
 1. 4th item
