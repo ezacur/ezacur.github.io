@@ -57,7 +57,7 @@ In: JACC: Clinical Electrophysiology (in press, available online).
 
 
 29. ***Understanding and Improving Risk Assessment after Infarction Myocardial Infarction Using Automated Left Ventricular Shape Analysis.***
-![](open_access.gif)
+![Open Access](open_access.gif)
 [![](pdf_icon.gif)](pdfs/CorralAcero22_JACC_Cardiovascular_Imaging.pdf)
 <br>
 Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Orovio, Lamata, Eitel, and Grau.
