@@ -357,7 +357,7 @@ In: Review of Scientific Instruments 78.2 (2007), 023903.
 --------------------------------
 # List of contributions to Conferences
 
-{:start="50"}
+{: reversed="reversed"}
 1. ***Optimised Misalignment Correction from Cine MR Slices Using Statistical Shape Model.***
 [![](pdf_icon.gif)](pdfs/MIUA_2021.pdf)
 <br>
