@@ -416,11 +416,6 @@ In: International Conference on Functional Imaging and Modeling of the Heart (FI
 Corral-Acero, **Zacur**, Xu, Ariga, Bueno-Orovio, Lamata, and Grau.
 <br>
 In: International Conference on Functional Imaging and Modeling of the Heart (FIMH). (Bordeaux, France), June 2019 (awarded with the 'Best Paper Award').
-[![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-21949-9_39)
-<div markdown="span" class="alert alert-info" role="alert">
-<i class="fa fa-info-circle"></i> awarded with the <b>Best Paper Award</b>.
-</div>
-
 
 
 1. ***Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
