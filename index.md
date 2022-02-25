@@ -29,6 +29,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -------------------------------
 # List of papers in Journals
 
@@ -43,7 +57,7 @@ In: JACC: Clinical Electrophysiology (in press, available online).
 
 
 29. ***Understanding and Improving Risk Assessment after Infarction Myocardial Infarction Using Automated Left Ventricular Shape Analysis.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/CorralAcero22_JACC_Cardiovascular_Imaging.pdf)
 <br>
 Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Orovio, Lamata, Eitel, and Grau.
@@ -65,7 +79,7 @@ In: JACC: Clinical Electrophysiology (in press, available online).
 
 
 27. ***A Completely Automated Pipeline for 3D Reconstruction of Human Heart from 2D Cine Magnetic Resonance Slices.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Banerjee21_Philosophical_Transactions_of_the_Royal_Society_A.pdf)
 <br>
 Banerjee, Camps, **Zacur**, Andrews, Rudy, Choudhury, Rodriguez, and Grau.
@@ -77,7 +91,7 @@ In: Philosophical Transactions of the Royal Society A 379.2212 (2021), 20200257.
 
 
 26. ***Point-Cloud Method for Automated 3D Coronary Tree Reconstruction From Multiple Non-Simultaneous Angiographic Projections.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Banerjee20_Transactions_on_Medical_Imaging.pdf)
 <br>
 Banerjee, Galassi, **Zacur**, De Maria, Choudhury, and Grau.
@@ -89,7 +103,7 @@ In: IEEE Transactions on Medical Imaging 39.4 (2020), pp. 1278&ndash;1290.
 
 
 25. ***The 'Digital Twin' to Enable the Vision of Precision Cardiology.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/CorralAcero20_European_Heart_Journal.pdf)
 <br>
 Corral-Acero, Margara, Marciniak, Rodero, Loncaric, Feng, Gilbert, Fernandes, Bukhari, Wajdan, Villegas-Martinez, Santos, Shamohammdi, Luo, Westphal, Leeson, DiAchille, Gurev, Mayr, Geris, Pathmanathan, Morrison, Cornelussen, Prinzen, Delhaas, Doltra, Sitges, Vigmond, **Zacur**, Grau, Rodriguez, Remme, Niederer, Mortier, McLeod, Potse, Pueyo, Bueno-Orovio, and Lamata.
@@ -101,7 +115,7 @@ In: European Heart Journal 41.48 (2020), pp. 4556&ndash;4564.
 
 
 24. ***Evaluation of ECG Imaging to Map Hemodynamically Stable and Unstable Ventricular Arrhythmias.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Graham20_Circulation_Arrhythmia_and_Electrophysiology.pdf)
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Srinivasan, Martin, Lane, Mansell, Cambridge, Garcia, Pugliese, Segal, Ahsan, Lowe, Finlay, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.
@@ -113,7 +127,7 @@ In: Circulation: Arrhythmia and Electrophysiology 13.2 (2020), e007377.
 
 
 23. ***Sensitivity Analysis of a Strongly-Coupled Human-Based Electromechanical Cardiac Model: Effect of Mechanical Parameters on Physiologically Relevant Biomarkers.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/LevreroFlorencio20_Computer_Methods_in_Applied_Mechanics_and_Engineering.pdf)
 <br>
 Levrero-Florencio, Margara, **Zacur**, Bueno-Orovio, Wang, Santiago, Aguado-Sierra, Houzeaux, Grau, Kay, V&aacute;zquez, Ruiz-Baier, and Rodriguez.
@@ -125,7 +139,7 @@ In: Computer Methods in Applied Mechanics and Engineering 361 (2020), 112762.
 
 
 22. ***MRI-Based Computational Torso/Biventricular Multiscale Models to Investigate the Impact of Anatomical Variability on the ECG QRS Complex.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Minchole19_Frontiers_in_Physiology.pdf)
 <br>
 Minchol&eacute;, **Zacur** _(joint first author)_, Ariga, Grau, and Rodriguez.
@@ -137,7 +151,7 @@ In: Frontiers in Physiology 10. 1103 (2019).
 
 
 21. ***Reappraising Remodelling Pattern of Left Ventricle in Aortic Stenosis: Axis Orientation as a Unique Signature of Positive Remodelling.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Chan19_Heart.pdf)
 <br>
 Chan, Mahmod, **Zacur**, Rigolli, D'Souza, Francis, Ariga, Raman, Dass, Karamitsos, Neubauer, Myerson, and Lamata.
@@ -149,7 +163,7 @@ In: Heart 105.Suppl 6 (2019), A18.
 
 
 20. ***1352: Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Graham19_EP_Europace.pdf)
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Cambridge, Dhinoja, Chow, Sporton, Hunter, and Lambiase.
@@ -161,7 +175,7 @@ In: EP Europace 21.Suppl 2 (2019), p. ii978.
 
 
 19. ***Simultaneous Comparison of Electrocardiographic Imaging and Epicardial Contact Mapping in Structural Heart Disease.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Graham19_Circulation_Arrhythmia_and_Electrophysiology.pdf)
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Srinivasan, Lane, Cambridge, Garcia, O'Reilly, Whittaker-Axon, Taggart, Lowe, Finlay, Earley, Chow, Sporton, Dhinoja, Schilling, Hunter, and Lambiase.
@@ -173,7 +187,7 @@ In: Circulation: Arrhythmia and Electrophysiology 12.4 (2019), e007120.
 
 
 18. ***First Simultaneous Invasive Validation of Electrocardiographic Imaging (ECGi) in Intact Human Heart with Epicardial Mapping.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Graham18_EP_Europace.pdf)
 <br>
 Graham, Orini, **Zacur**, Dhillon, van Duijvenboden, Daw, Cambridge, Garcia, Hunter, Dhinoja, and Lambiase.
@@ -185,7 +199,7 @@ In: EP Europace 20.Suppl 4 (2018), p. iv20.
 
 
 17. ***Electrocardiogram Phenotypes in Hypertrophic Cardiomyopathy Caused by Distinct Mechanisms: Apico-Basal Repolarization Gradients vs. Purkinje-Myocardial Coupling Abnormalities.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Lyon18_EP_Europace.pdf)
 <br>
 Lyon, Bueno-Orovio, **Zacur**, Ariga, Grau, Neubauer, Watkins, Rodriguez, and Minchol&eacute;.
@@ -197,7 +211,7 @@ In: EP Europace 20.Suppl 3 (2018), pp. iii102-iii112.
 
 
 16. ***Surface Mesh Reconstruction from Cardiac MRI Contours.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Villard18_Journal_of_Imaging.pdf)
 <br>
 Villard, Grau, and **Zacur**.
@@ -209,7 +223,7 @@ In: Journal of Imaging 4.1 (2018).
 
 
 15. ***An Asymmetric Wall-Thickening Pattern Predicts Response to Cardiac Resynchronization Therapy.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Warriner18_JACC_Cardiovascular_Imaging.pdf)
 <br>
 Warriner, Jackson, **Zacur**, Sammut, Sheridan, Hose, Lawford, Razavi, Niederer, Rinaldi, and Lamata.
@@ -221,7 +235,7 @@ In: JACC: Cardiovascular Imaging 11.10 (2018), pp. 1545&ndash;1546.
 
 
 14. ***Novel Computational Analysis of Left Atrial Anatomy Improves Prediction of Atrial Fibrillation Recurrence after Ablation.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Varela17_Frontiers_in_Physiology.pdf)
 <br>
 Varela, Bisbal, **Zacur**, Berruezo, Aslanidi, Mont, and Lamata.
@@ -233,7 +247,7 @@ In: Frontiers in Physiology 8.68 (2017).
 
 
 13. ***Early Afterdepolarizations Promote Transmural Reentry in Ischemic Human Ventricles with Reduced Repolarization Reserve.***
-![](open_access.png)
+![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Dutta16_Progress_in_Biophysics_and_Molecular_Biology.pdf)
 <br>
 Dutta, Minchol&eacute;, **Zacur**, Quinn, Taggart, and Rodriguez.
@@ -367,6 +381,25 @@ Meyer, Arneodo Larochette, Baruj, Castro, Lacharmoise, **Zacur**, and Talaga&nti
 In: Review of Scientific Instruments 78.2 (2007), 023903.
 [![](bibtex_icon.gif)](bibs/Meyer07_Review_of_Scientific_Instruments.bib)
 [![](doi_icon.gif)](http://doi.org/10.1063/1.2437160)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
