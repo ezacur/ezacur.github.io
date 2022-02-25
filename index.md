@@ -8,7 +8,7 @@
     > Aragon Institute of Engineering Research (I3A), University of Zaragoza, Spain.
     >
     > *PhD Thesis title:* **"Computational Anatomy and Brain Morphometry"**.
-[![](pdf_icon.gif)](pdfs/PhDThesis_Zacur_2014.pdf)<br>
+[![](pdf_icon.gif)](pdfs/PhDThesis_Zacur_2014.pdf)
     >
     > (awarded with the ***Extraordinary Doctorate Award***)
 
@@ -19,7 +19,7 @@
     > Balseiro Institute, National University of Cuyo, Bariloche, Argentina.
     >
     > MSc Thesis title: "Desarrollo de una Metodología para el Diseño de Bombas Centrífugas" ("Development of a methodology for the design of centrifugal pumps").
-   [![](bibtex_icon.gif)](bibs/MasterTesis_Zacur_2003.pdf)<br>
+[![](pdf_icon.gif)](pdfs/MasterTesis_Zacur_2003.pdf)
 
 
 * **2002**
@@ -35,6 +35,8 @@
 # List of papers in Journals
 
 
+
+
 1. ***Assessing Noninvasive Delineation of Low-Voltage Zones Using ECG Imaging in Patients With Structural Heart Disease***.
 <br>
 Graham, Orini, **Zacur**, Dhillon, Jones, Prabhu, Pugliese, Lowe, Ahsan, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.<br>
@@ -42,11 +44,16 @@ In: JACC: Clinical Electrophysiology (in press, available online).
 [![](bibtex_icon.gif)](bibs/Graham22_JACC_Clinical_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.11.011)
 
-1. ***Understanding and Improving Risk Assessment after Infarction Myocardial Infarction Using Automated Left Ventricular Shape Analysis***.[![](bibtex_icon.gif)](bibs/CorralAcero22_JACC_Cardiovascular_Imaging.pdf)<br>
+
+
+1. ***Understanding and Improving Risk Assessment after Infarction Myocardial Infarction Using Automated Left Ventricular Shape Analysis***.
+[![](pdf_icon.gif)](pdfs/CorralAcero22_JACC_Cardiovascular_Imaging.pdf)<br>
 Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Orovio, Lamata, Eitel, and Grau.<br>
 In: JACC: Cardiovascular Imaging (in press, available online).
 [![](bibtex_icon.gif)](bibs/CorralAcero22_JACC_Cardiovascular_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jcmg.2021.11.027)
+
+
 
 1. ***Detailed Assessment of Low-voltage Zones Localization by Cardiac MRI in Patients with Implantable Devices***.
 <br>
@@ -55,12 +62,16 @@ In: JACC: Clinical Electrophysiology (in press, available online).
 [![](bibtex_icon.gif)](bibs/Orini22_JACC_Clinical_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.10.002)
 
+
+
 1. ***A Completely Automated Pipeline for 3D Reconstruction of Human Heart from 2D Cine Magnetic Resonance Slices***.
 [![](pdf_icon.gif)](pdfs/Banerjee21_Philosophical_Transactions_of_the_Royal_Society_A.pdf)<br>
 Banerjee, Camps, **Zacur**, Andrews, Rudy, Choudhury, Rodriguez, and Grau.<br>
 In: Philosophical Transactions of the Royal Society A 379.2212 (2021), 20200257.
 [![](bibtex_icon.gif)](bibs/Banerjee21_Philosophical_Transactions_of_the_Royal_Society_A.bib)
 [![](doi_icon.gif)](http://doi.org/10.1098/rsta.2020.0257)
+
+
 
 1. ***Point-Cloud Method for Automated 3D Coronary Tree Reconstruction From Multiple Non-Simultaneous Angiographic Projections***.
 [![](pdf_icon.gif)](pdfs/Banerjee20_Transactions_on_Medical_Imaging.pdf)<br>
@@ -69,12 +80,16 @@ In: IEEE Transactions on Medical Imaging 39.4 (2020), pp. 1278&ndash;1290.
 [![](bibtex_icon.gif)](bibs/Banerjee20_Transactions_on_Medical_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1109/TMI.2019.2944092)
 
+
+
 1. ***The 'Digital Twin' to Enable the Vision of Precision Cardiology***.
 [![](pdf_icon.gif)](pdfs/CorralAcero20_European_Heart_Journal.pdf)<br>
 Corral-Acero, Margara, Marciniak, Rodero, Loncaric, Feng, Gilbert, Fernandes, Bukhari, Wajdan, Villegas-Martinez, Santos, Shamohammdi, Luo, Westphal, Leeson, DiAchille, Gurev, Mayr, Geris, Pathmanathan, Morrison, Cornelussen, Prinzen, Delhaas, Doltra, Sitges, Vigmond, **Zacur**, Grau, Rodriguez, Remme, Niederer, Mortier, McLeod, Potse, Pueyo, Bueno-Orovio, and Lamata.<br>
 In: European Heart Journal 41.48 (2020), pp. 4556&ndash;4564.
 [![](bibtex_icon.gif)](bibs/CorralAcero20_European_Heart_Journal.bib)
 [![](doi_icon.gif)](http://doi.org/10.1093/eurheartj/ehaa159)
+
+
 
 1. ***Evaluation of ECG Imaging to Map Hemodynamically Stable and Unstable Ventricular Arrhythmias***.
 [![](pdf_icon.gif)](pdfs/Graham20_Circulation_Arrhythmia_and_Electrophysiology.pdf)<br>
@@ -83,12 +98,16 @@ In: Circulation: Arrhythmia and Electrophysiology 13.2 (2020), e007377.
 [![](bibtex_icon.gif)](bibs/Graham20_Circulation_Arrhythmia_and_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1161/CIRCEP.119.007377)
 
+
+
 1. ***Sensitivity Analysis of a Strongly-Coupled Human-Based Electromechanical Cardiac Model: Effect of Mechanical Parameters on Physiologically Relevant Biomarkers***.
 [![](pdf_icon.gif)](pdfs/LevreroFlorencio20_Computer_Methods_in_Applied_Mechanics_and_Engineering.pdf)<br>
 Levrero-Florencio, Margara, **Zacur**, Bueno-Orovio, Wang, Santiago, Aguado-Sierra, Houzeaux, Grau, Kay, V&aacute;zquez, Ruiz-Baier, and Rodriguez.<br>
 In: Computer Methods in Applied Mechanics and Engineering 361 (2020), 112762.
 [![](bibtex_icon.gif)](bibs/LevreroFlorencio20_Computer_Methods_in_Applied_Mechanics_and_Engineering.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.cma.2019.112762)
+
+
 
 1. ***MRI-Based Computational Torso/Biventricular Multiscale Models to Investigate the Impact of Anatomical Variability on the ECG QRS Complex***.
 [![](pdf_icon.gif)](pdfs/Minchole19_Frontiers_in_Physiology.pdf)<br>
@@ -97,12 +116,16 @@ In: Frontiers in Physiology 10. 1103 (2019).
 [![](bibtex_icon.gif)](bibs/Minchole19_Frontiers_in_Physiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.3389/fphys.2019.01103)
 
+
+
 1. ***Reappraising Remodelling Pattern of Left Ventricle in Aortic Stenosis: Axis Orientation as a Unique Signature of Positive Remodelling***.
 [![](pdf_icon.gif)](pdfs/Chan19_Heart.pdf)<br>
 Chan, Mahmod, **Zacur**, Rigolli, D'Souza, Francis, Ariga, Raman, Dass, Karamitsos, Neubauer, Myerson, and Lamata.<br>
 In: Heart 105.Suppl 6 (2019), A18.
 [![](bibtex_icon.gif)](bibs/Chan19_Heart.bib)
 [![](doi_icon.gif)](http://doi.org/10.1136/heartjnl-2019-BCS.19)
+
+
 
 1. ***1352: Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation***.
 [![](pdf_icon.gif)](pdfs/Graham19_EP_Europace.pdf)<br>
@@ -111,12 +134,16 @@ In: EP Europace 21.Suppl 2 (2019), p. ii978.
 [![](bibtex_icon.gif)](bibs/Graham19_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euz103)
 
+
+
 1. ***Simultaneous Comparison of Electrocardiographic Imaging and Epicardial Contact Mapping in Structural Heart Disease***.
 [![](pdf_icon.gif)](pdfs/Graham19_Circulation_Arrhythmia_and_Electrophysiology.pdf)<br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Srinivasan, Lane, Cambridge, Garcia, O'Reilly, Whittaker-Axon, Taggart, Lowe, Finlay, Earley, Chow, Sporton, Dhinoja, Schilling, Hunter, and Lambiase.<br>
 In: Circulation: Arrhythmia and Electrophysiology 12.4 (2019), e007120.
 [![](bibtex_icon.gif)](bibs/Graham19_Circulation_Arrhythmia_and_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1161/CIRCEP.118.007120)
+
+
 
 1. ***First Simultaneous Invasive Validation of Electrocardiographic Imaging (ECGi) in Intact Human Heart with Epicardial Mapping***.
 [![](pdf_icon.gif)](pdfs/Graham18_EP_Europace.pdf)<br>
@@ -125,12 +152,16 @@ In: EP Europace 20.Suppl 4 (2018), p. iv20.
 [![](bibtex_icon.gif)](bibs/Graham18_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/http://academic.oup.com/europace/article/20/suppl_4/iv20/5125825)
 
+
+
 1. ***Electrocardiogram Phenotypes in Hypertrophic Cardiomyopathy Caused by Distinct Mechanisms: Apico-Basal Repolarization Gradients vs. Purkinje-Myocardial Coupling Abnormalities***.
 [![](pdf_icon.gif)](pdfs/Lyon18_EP_Europace.pdf)<br>
 Lyon, Bueno-Orovio, **Zacur**, Ariga, Grau, Neubauer, Watkins, Rodriguez, and Minchol&eacute;.<br>
 In: EP Europace 20.Suppl 3 (2018), pp. iii102-iii112.
 [![](bibtex_icon.gif)](bibs/Lyon18_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euy226)
+
+
 
 1. ***Surface Mesh Reconstruction from Cardiac MRI Contours***.
 [![](pdf_icon.gif)](pdfs/Villard18_Journal_of_Imaging.pdf)<br>
@@ -139,12 +170,16 @@ In: Journal of Imaging 4.1 (2018).
 [![](bibtex_icon.gif)](bibs/Villard18_Journal_of_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.3390/jimaging4010016)
 
+
+
 1. ***An Asymmetric Wall-Thickening Pattern Predicts Response to Cardiac Resynchronization Therapy***.
 [![](pdf_icon.gif)](pdfs/Warriner18_JACC_Cardiovascular_Imaging.pdf)<br>
 Warriner, Jackson, **Zacur**, Sammut, Sheridan, Hose, Lawford, Razavi, Niederer, Rinaldi, and Lamata.<br>
 In: JACC: Cardiovascular Imaging 11.10 (2018), pp. 1545&ndash;1546.
 [![](bibtex_icon.gif)](bibs/Warriner18_JACC_Cardiovascular_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jcmg.2018.01.022)
+
+
 
 1. ***Novel Computational Analysis of Left Atrial Anatomy Improves Prediction of Atrial Fibrillation Recurrence after Ablation***.
 [![](pdf_icon.gif)](pdfs/Varela17_Frontiers_in_Physiology.pdf)<br>
@@ -153,6 +188,8 @@ In: Frontiers in Physiology 8.68 (2017).
 [![](bibtex_icon.gif)](bibs/Varela17_Frontiers_in_Physiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.3389/fphys.2017.00068)
 
+
+
 1. ***Early Afterdepolarizations Promote Transmural Reentry in Ischemic Human Ventricles with Reduced Repolarization Reserve***.
 [![](pdf_icon.gif)](pdfs/Dutta16_Progress_in_Biophysics_and_Molecular_Biology.pdf)<br>
 Dutta, Minchol&eacute;, **Zacur**, Quinn, Taggart, and Rodriguez.<br>
@@ -160,15 +197,21 @@ In: Progress in Biophysics and Molecular Biology 120.1 (2016). Recent Developmen
 [![](bibtex_icon.gif)](bibs/Dutta16_Progress_in_Biophysics_and_Molecular_Biology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.pbiomolbio.2016.01.008)
 
+
+
 1. ***Adverse Left Ventricular Remodelling Patterns Predict Response to Cardiac Resynchronization Therapy***.
 Gonzalez, Warriner, Jackson, Sammut, **Zacur**, Hose, Razavi, Smith, and Lamata.<br>
 In: Circulation 132.Suppl 3 (2015), A16108.
 [![](doi_icon.gif)](http://doi.org/10.1161/circ.132.suppl_3.16108)
 
+
+
 1. ***Optimal Prediction of Atrial Fibrillation Recurrence After Ablation: A Computational Anatomy Study***.
 Varela, Bisbal, **Zacur**, Guiu, Berruezo, Sitges, Prat, Aslanidi, Mont, and Lamata.<br>
 In: Circulation 132.Suppl 3 (2015), A12471.
 [![](doi_icon.gif)](http://doi.org/10.1161/circ.132.suppl_3.12471)
+
+
 
 1. ***Left-Invariant Riemannian Geodesics on Spatial Transformation Groups***.
 [![](pdf_icon.gif)](pdfs/Zacur14_SIAM_Journal_on_Imaging_Sciences.pdf)<br>
@@ -177,12 +220,16 @@ In: SIAM Journal on Imaging Sciences 7.3 (2014), pp. 1503&ndash;1557.
 [![](bibtex_icon.gif)](bibs/Zacur14_SIAM_Journal_on_Imaging_Sciences.bib)
 [![](doi_icon.gif)](http://doi.org/10.1137/130928352)
 
+
+
 1. ***Multivariate Tensor-Based Morphometry with a Right-Invariant Riemannian Distance on GL+(n)***.
 [![](pdf_icon.gif)](pdfs/Zacur14_Journal_of_Mathematical_Imaging_and_Vision.pdf)<br>
 **Zacur**, Bossa, and Olmos.<br>
 In: Journal of Mathematical Imaging and Vision 50 (2014), pp. 18&ndash;31.
  ![](pdf_icon.gif)](pdfs/Zacur14_Journal_of_Mathematical_Imaging_and_Vision.bib)
 [![](doi_icon.gif)](http://doi.org/10.1007/s10851-013-0479-7)
+
+
 
 1. ***Brain Regions Related to Fear Extinction in Obsessive-Compulsive Disorder and its Relation to Exposure Therapy Outcome: a Morphometric Study***.
 [![](pdf_icon.gif)](pdfs/Fullana14_Psychological_Medicine.pdf)<br>
@@ -191,12 +238,16 @@ In: Psychological Medicine 44.4 (2014), pp. 845&ndash;856.
 [![](bibtex_icon.gif)](bibs/Fullana14_Psychological_Medicine.bib)
 [![](doi_icon.gif)](http://doi.org/10.1017/S0033291713001128)
 
+
+
 1. ***Modeling and Quantification of Repolarization Feature Dependency on Heart Rate***.
 [![](pdf_icon.gif)](pdfs/Minchole14_Methods_of_Information_in_Medicine.pdf)<br>
 Minchol&eacute;, **Zacur**, Pueyo, and Laguna.<br>
 In: Methods of Information in Medicine 53.4 (2014), pp. 324&ndash;328.
 [![](bibtex_icon.gif)](bibs/Minchole14_Methods_of_Information_in_Medicine.bib)
 [![](doi_icon.gif)](http://doi.org/10.3414/ME13-02-0040)
+
+
 
 1. ***Quantification of Restitution Dispersion From the Dynamic Changes of the T-Wave Peak to End, Measured at the Surface ECG***.
 [![](pdf_icon.gif)](pdfs/Minchole11_Transactions_on_Biomedical_Engineering.pdf)<br>
@@ -205,12 +256,16 @@ In: IEEE Transactions on Biomedical Engineering 58.5 (2011), pp. 1172&ndash;1182
 [![](bibtex_icon.gif)](bibs/Minchole11_Transactions_on_Biomedical_Engineering.bib)
 [![](doi_icon.gif)](http://doi.org/10.1109/tbme.2010.2097597)
 
+
+
 1. ***Statistical Analysis of Relative Pose Information of Subcortical Nuclei: Application on ADNI Data***.
 [![](pdf_icon.gif)](pdfs/Bossa11_NeuroImage.pdf)<br>
 Bossa, **Zacur**, and Olmos.<br>
 In: NeuroImage 55.3 (2011), pp. 999&ndash;1008.
 [![](bibtex_icon.gif)](bibs/Bossa11_NeuroImage.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.neuroimage.2010.12.078)
+
+
 
 1. ***Tensor-based Morphometry with Stationary Velocity Field Diffeomorphic Registration: Application to ADNI***.
 [![](pdf_icon.gif)](pdfs/Bossa10_NeuroImage.pdf)<br>
@@ -219,6 +274,8 @@ In: NeuroImage 51.3 (2010), pp. 956&ndash;969.
 [![](bibtex_icon.gif)](bibs/Bossa10_NeuroImage.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.neuroimage.2010.02.061)
 
+
+
 1. ***3D Edge Detection by Selection of Level Surface Patches***.
 [![](pdf_icon.gif)](pdfs/Meinhardt09_Journal_of_Mathematical_Imaging_and_Vision.pdf)<br>
 Meinhardt, **Zacur**, Frangi, and Caselles.<br>
@@ -226,12 +283,16 @@ In: Journal of Mathematical Imaging and Vision 34.1 (2009), pp. 1&ndash;16.
 [![](bibtex_icon.gif)](bibs/Meinhardt09_Journal_of_Mathematical_Imaging_and_Vision.bib)
 [![](doi_icon.gif)](http://doi.org/10.1007/s10851-008-0118-x)
 
+
+
 1. ***Transferring the Rig and Animations from a Character to Different Face Models***.
 [![](pdf_icon.gif)](pdfs/CostaOrvalho08_Computer_Graphics_Forum.pdf)<br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.<br>
 In: Computer Graphics Forum 27.8 (2008), pp. 1997&ndash;2012.
 [![](bibtex_icon.gif)](bibs/CostaOrvalho08_Computer_Graphics_Forum.bib)
 [![](doi_icon.gif)](http://doi.org/10.1111/j.1467-8659.2008.01187.x)
+
+
 
 1. ***Equipment for Hydrogen Absorption-Desorption Cycling Characterization of Hydride Forming Materials***.
 [![](pdf_icon.gif)](pdfs/Meyer07_Review_of_Scientific_Instruments.pdf)<br>
@@ -253,6 +314,7 @@ Banerjee, **Zacur**, Choudhury, and Grau.
 In: Medical Image Understanding and Analysis (MIUA). (Oxford, United Kingdom), July 2021.
 [![](pdf_icon.gif)](pdfs/MIUA_2021.pdf)<br>
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-80432-9_16)
+
 1.
 Kerfoot, Puyol-Ant&oacute;n, Ruijsink, Ariga, **Zacur**, Lamata, and Schnabel.
 ***Synthesising Images and Labels between MR Sequence Types With CycleGAN***.
@@ -260,6 +322,7 @@ Kerfoot, Puyol-Ant&oacute;n, Ruijsink, Ariga, **Zacur**, Lamata, and Schnabel.
 In: MICCAI Workshop on Domain Adaptation and Representation Transfer(DART). (Shenzhen, China), Oct. 2019.
 [![](pdf_icon.gif)](pdfs/DART_2019.pdf)<br>
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-33391-1_6)
+
 1.
 Corral-Acero, Xu, **Zacur**, Schneider, Lamata, Bueno-Orovio, and Grau.
 ***Left Ventricle Quantification with Cardiac MRI: Deep Learning Meets Statistical Models of Deformation***.
@@ -267,6 +330,7 @@ Corral-Acero, Xu, **Zacur**, Schneider, Lamata, Bueno-Orovio, and Grau.
 In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). (Shenzhen, China), Oct. 2019 (winner of the 'Left Ventricle Full Quantification Challenge').
 [![](pdf_icon.gif)](pdfs/STACOM_2019.pdf)<br>
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-39074-7_40)
+
 1.
 Xu, **Zacur**, Schneider, and Grau.
 ***Ventricle Surface Reconstruction from Cardiac MR Slices Using Deep Learning***.
