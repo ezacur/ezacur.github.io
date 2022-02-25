@@ -7,7 +7,8 @@
     >
     > Aragon Institute of Engineering Research (I3A), University of Zaragoza, Spain.
     >
-    > PhD Thesis title: "Computational Anatomy and Brain Morphometry". [![](pdf_icon.gif)](pdfs/PhDThesis_Zacur_2014.pdf)
+    > *PhD Thesis title:* **"Computational Anatomy and Brain Morphometry"**. [![](pdf_icon.gif)](pdfs/PhDThesis_Zacur_2014.pdf)
+    >
     > (awarded with the ***Extraordinary Doctorate Award***)
 
 
@@ -36,17 +37,57 @@
 
 # List of papers in Journals
 
-* > ***Assessing Noninvasive Delineation of Low-Voltage Zones Using ECG Imaging in Patients With Structural Heart Disease***. 
+1 > ***Assessing Noninvasive Delineation of Low-Voltage Zones Using ECG Imaging in Patients With Structural Heart Disease***. 
   >
   > Graham, Orini, **Zacur**, Dhillon, Jones, Prabhu, Pugliese, Lowe, Ahsan, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.
   >
-  > JACC: Clinical Electrophysiology (in press, available online).    [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.11.011)
+  > JACC: Clinical Electrophysiology (in press, available online).  [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.11.011)
 
-1. > Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Orovio, Lamata, Eitel, and Grau.
+1. > ***Understanding and Improving Risk Assessment after Infarction Myocardial Infarction Using Automated Left Ventricular Shape Analysis***  [![](pdf_icon.gif)](pdfs/CorralAcero22_JACC_Cardiovascular_Imaging.pdf)
    > 
-   > ***Understanding and Improving Risk Assessment after Infarction Myocardial Infarction Using Automated Left Ventricular Shape Analysis***  [![](pdf_icon.gif)](pdfs/CorralAcero22_JACC_Cardiovascular_Imaging.pdf)
+   > Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Orovio, Lamata, Eitel, and Grau.
    > 
    > JACC: Cardiovascular Imaging (in press, available online).  [![](doi_icon.gif)](http://doi.org/10.1016/j.jcmg.2021.11.027)
+
+
+1. > ***Detailed Assessment of Low-voltage Zones Localization by Cardiac MRI in Patients with Implantable Devices***
+   > 
+   > Orini, Seraphim, Graham, Bhuva, **Zacur**, Kellman, Schilling, Hunter, Dhinoja, Finlay, Ahsan, Chow, Moon, Lambiase, and Manisty.
+   > 
+   > JACC: Clinical Electrophysiology (in press, available online).    [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.10.002)
+
+1. > ***A Completely Automated Pipeline for 3D Reconstruction of Human Heart from 2D Cine Magnetic Resonance Slices***. [![](pdf_icon.gif)](pdfs/Banerjee21_Philosophical_Transactions_of_the_Royal_Society_A.pdf)
+   > 
+   > Banerjee, Camps, **Zacur**, Andrews, Rudy, Choudhury, Rodriguez, and Grau.
+   > 
+   > Philosophical Transactions of the Royal Society A 379.2212 (2021), 20200257.       [![](doi_icon.gif)](http://doi.org/10.1098/rsta.2020.0257)
+
+1. > ***Point-Cloud Method for Automated 3D Coronary Tree Reconstruction From Multiple Non-Simultaneous Angiographic Projections***. [![](pdf_icon.gif)](pdfs/Banerjee20_Transactions_on_Medical_Imaging.pdf) 
+   > 
+   > Banerjee, Galassi, **Zacur**, De Maria, Choudhury, and Grau.
+   >    
+   > IEEE Transactions on Medical Imaging 39.4 (2020), pp. 1278�1290. [![](doi_icon.gif)](http://doi.org/10.1109/TMI.2019.2944092)
+
+1.  > ***The 'Digital Twin' to Enable the Vision of Precision Cardiology***. [![](pdf_icon.gif)](pdfs/CorralAcero20_European_Heart_Journal.pdf)
+    > 
+    > Corral-Acero, Margara, Marciniak, Rodero, Loncaric, Feng, Gilbert, Fernandes, Bukhari, Wajdan, Villegas-Martinez, Santos, Shamohammdi, Luo, Westphal, Leeson, DiAchille, Gurev, Mayr, Geris, Pathmanathan, Morrison, Cornelussen, Prinzen, Delhaas, Doltra, Sitges, Vigmond, **Zacur**, Grau, Rodriguez, Remme, Niederer, Mortier, McLeod, Potse, Pueyo, Bueno-Orovio, and Lamata.
+    > 
+    > European Heart Journal 41.48 (2020), pp. 4556�4564. [![](doi_icon.gif)](http://doi.org/10.1093/eurheartj/ehaa159)
+
+1. Graham, Orini, **Zacur**, Dhillon, Daw, Srinivasan, Martin, Lane, Mansell, Cambridge, Garcia, Pugliese, Segal, Ahsan, Lowe, Finlay, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase. ***Evaluation of ECG Imaging to Map Hemodynamically Stable and Unstable Ventricular Arrhythmias***. In: Circulation: Arrhythmia and Electrophysiology 13.2 (2020), e007377.   [![](pdf_icon.gif)](pdfs/Graham20_Circulation_Arrhythmia_and_Electrophysiology.pdf)    [![](doi_icon.gif)](http://doi.org/10.1161/CIRCEP.119.007377)
+
+1. Levrero-Florencio, Margara, **Zacur**, Bueno-Orovio, Wang, Santiago, Aguado-Sierra, Houzeaux, Grau, Kay, V�zquez, Ruiz-Baier, and Rodriguez. ***Sensitivity Analysis of a Strongly-Coupled Human-Based Electromechanical Cardiac Model: Effect of Mechanical Parameters on Physiologically Relevant Biomarkers***. In: Computer Methods in Applied Mechanics and Engineering 361 (2020), 112762.   [![](pdf_icon.gif)](pdfs/LevreroFlorencio20_Computer_Methods_in_Applied_Mechanics_and_Engineering.pdf)    [![](doi_icon.gif)](http://doi.org/10.1016/j.cma.2019.112762)
+
+1. Minchol�, **Zacur** _(joint first author)_, Ariga, Grau, and Rodriguez. ***MRI-Based Computational Torso/Biventricular Multiscale Models to Investigate the Impact of Anatomical Variability on the ECG QRS Complex***. In: Frontiers in Physiology 10. 1103 (2019).   [![](pdf_icon.gif)](pdfs/Minchole19_Frontiers_in_Physiology.pdf)    [![](doi_icon.gif)](http://doi.org/10.3389/fphys.2019.01103)
+
+
+
+
+
+
+
+
+
 
 
 
