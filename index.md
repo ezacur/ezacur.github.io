@@ -30,12 +30,13 @@
 
 
 -------------------------------
-
-
 # List of papers in Journals
 
-
-
+---
+title: Journals list
+bibliography_list_attributes:
+    reversed: "reversed"
+---
 
 30. ***Assessing Noninvasive Delineation of Low-Voltage Zones Using ECG Imaging in Patients With Structural Heart Disease.***
 <br>
