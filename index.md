@@ -32,13 +32,7 @@
 -------------------------------
 # List of papers in Journals
 
----
-title: Journal articles list
-bibliography_list_attributes:
-    reversed: "reversed"
----
 {: reversed="reversed"}
-
 30. ***Assessing Noninvasive Delineation of Low-Voltage Zones Using ECG Imaging in Patients With Structural Heart Disease.***
 <br>
 Graham, Orini, **Zacur**, Dhillon, Jones, Prabhu, Pugliese, Lowe, Ahsan, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.
@@ -363,7 +357,7 @@ In: Review of Scientific Instruments 78.2 (2007), 023903.
 --------------------------------
 # List of contributions to Conferences
 
-
+{:start="50"}
 1. ***Optimised Misalignment Correction from Cine MR Slices Using Statistical Shape Model.***
 [![](pdf_icon.gif)](pdfs/MIUA_2021.pdf)
 <br>
@@ -407,6 +401,10 @@ Corral-Acero, **Zacur**, Xu, Ariga, Bueno-Orovio, Lamata, and Grau.
 <br>
 In: International Conference on Functional Imaging and Modeling of the Heart (FIMH). (Bordeaux, France), June 2019 (awarded with the 'Best Paper Award').
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-21949-9_39)
+<div markdown="span" class="alert alert-info" role="alert">
+    <i class="fa fa-info-circle"></i> awarded with the <b>'Best Paper Award'<\b>.
+</div>
+
 
 
 1. ***Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
