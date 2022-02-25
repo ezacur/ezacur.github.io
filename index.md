@@ -25,6 +25,10 @@
     > Balseiro Institute, National University of Cuyo, Bariloche, Argentina.
 
 
+[![](pdf_icon.gif)](pdfs/MasterTesis_Zacur_2003.pdf)
+[![](doi_icon.gif)](phttp://doi.org/10.1016/j.jacep.2021.11.011)
+
+
 
 -------------------------------
 
