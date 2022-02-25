@@ -1,3 +1,4 @@
+markdown: kramdown
 theme: jekyll-theme-cayman 
 title: Ernesto's homepage
 description: Physicist and Biomedical Engineer PhD
