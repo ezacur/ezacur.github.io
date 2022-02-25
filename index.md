@@ -277,7 +277,7 @@ In: SIAM Journal on Imaging Sciences 7.3 (2014), pp. 1503&ndash;1557.
 **Zacur**, Bossa, and Olmos.
 <br>
 In: Journal of Mathematical Imaging and Vision 50 (2014), pp. 18&ndash;31.
-[![](pdf_icon.gif)](pdfs/Zacur14_Journal_of_Mathematical_Imaging_and_Vision.bib)
+[![](bibtex_icon.gif)](bibs/Zacur14_Journal_of_Mathematical_Imaging_and_Vision.bib)
 [![](doi_icon.gif)](http://doi.org/10.1007/s10851-013-0479-7)
 
 
@@ -373,13 +373,16 @@ In: Review of Scientific Instruments 78.2 (2007), 023903.
 --------------------------------
 # List of contributions to Conferences
 
+
 {: reversed="reversed"}
 1. ***Optimised Misalignment Correction from Cine MR Slices Using Statistical Shape Model.***
 [![](pdf_icon.gif)](pdfs/MIUA_2021.pdf)
 <br>
 Banerjee, **Zacur**, Choudhury, and Grau.
 <br>
-In: Medical Image Understanding and Analysis (MIUA). (Oxford, United Kingdom), July 2021.
+In: Medical Image Understanding and Analysis (MIUA).
+<br>
+Oxford, United Kingdom, July 2021.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-80432-9_16)
 
 
@@ -388,7 +391,9 @@ In: Medical Image Understanding and Analysis (MIUA). (Oxford, United Kingdom), J
 <br>
 Kerfoot, Puyol-Ant&oacute;n, Ruijsink, Ariga, **Zacur**, Lamata, and Schnabel.
 <br>
-In: MICCAI Workshop on Domain Adaptation and Representation Transfer(DART). (Shenzhen, China), Oct. 2019.
+In: MICCAI Workshop on Domain Adaptation and Representation Transfer(DART).
+<br>
+Shenzhen, China, Oct. 2019.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-33391-1_6)
 
 
@@ -397,7 +402,9 @@ In: MICCAI Workshop on Domain Adaptation and Representation Transfer(DART). (She
 <br>
 Corral-Acero, Xu, **Zacur**, Schneider, Lamata, Bueno-Orovio, and Grau.
 <br>
-In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). (Shenzhen, China), Oct. 2019 (winner of the 'Left Ventricle Full Quantification Challenge').
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). 
+<br>
+Shenzhen, China, Oct. 2019 (winner of the 'Left Ventricle Full Quantification Challenge').
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-39074-7_40)
 
 
@@ -406,7 +413,9 @@ In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart
 <br>
 Xu, **Zacur**, Schneider, and Grau.
 <br>
-In: International Conference on Functional Imaging and Modeling of the Heart (FIMH). (Bordeaux, France), June 2019.
+In: International Conference on Functional Imaging and Modeling of the Heart (FIMH).
+<br>
+Bordeaux, France, June 2019.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-21949-9_37)
 
 
@@ -415,14 +424,18 @@ In: International Conference on Functional Imaging and Modeling of the Heart (FI
 <br>
 Corral-Acero, **Zacur**, Xu, Ariga, Bueno-Orovio, Lamata, and Grau.
 <br>
-In: International Conference on Functional Imaging and Modeling of the Heart (FIMH). (Bordeaux, France), June 2019 (awarded with the 'Best Paper Award').
+In: International Conference on Functional Imaging and Modeling of the Heart (FIMH).
+<br>
+Bordeaux, France, June 2019 (awarded with the 'Best Paper Award').
 
 
 1. ***Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Cambridge, Dhinoja, Chow, Sporton, Hunter, and Lambiase.
 <br>
-In: European Heart Rhythm Association Annual Congress (EHRA). (Lisbon, Portugal), Mar. 2019.
+In: European Heart Rhythm Association Annual Congress (EHRA).
+<br>
+Lisbon, Portugal, Mar. 2019.
 
 
 1. ***ISACHI: Integrated Segmentation and Alignment Correction for Heart Images.***
@@ -430,7 +443,9 @@ In: European Heart Rhythm Association Annual Congress (EHRA). (Lisbon, Portugal)
 <br>
 Villard, **Zacur**, and Grau.
 <br>
-In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). (Granada, Spain), Sept. 2018.
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). 
+<br>
+Granada, Spain, Sept. 2018.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-12029-0_19)
 
 
@@ -453,14 +468,18 @@ In: Virtual Physiological Human Conference. (Zaragoza, Spain), Sept. 2018.
 <br>
 Villard, Grau, and **Zacur**.
 <br>
-In: International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). (Honolulu, United States), July 2018.
+In: International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+<br>
+Honolulu, United States, July 2018.
 
 
 1. ***SurFCo: Surface Mesh From Contours.***
 <br>
 Villard, Grau, and **Zacur**.
 <br>
-In: IEEE International Symposium on Biomedical Imaging (ISBI). (Washington, United States), Apr. 2018.
+In: IEEE International Symposium on Biomedical Imaging (ISBI).
+<br>
+Washington, United States, Apr. 2018.
 
 
 1. ***MRI-Based Heart and Torso Personalization for Computer Modeling and Simulation of Cardiac Electrophysiology.***
@@ -468,7 +487,9 @@ In: IEEE International Symposium on Biomedical Imaging (ISBI). (Washington, Unit
 <br>
 **Zacur**, Minchol&eacute;, Villard, Carapella, Ariga, Rodriguez, and Grau.
 <br>
-In: MICCAI Workshop on Bio-Imaging and Visualization for Patient-Customized Simulations (BIVPCS). (Quebec, Canada), Sept. 2017.
+In: MICCAI Workshop on Bio-Imaging and Visualization for Patient-Customized Simulations (BIVPCS).
+<br>
+Quebec, Canada, Sept. 2017.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-67552-7_8)
 
 
@@ -476,14 +497,18 @@ In: MICCAI Workshop on Bio-Imaging and Visualization for Patient-Customized Simu
 <br>
 Marinov, **Zacur**, Lambiase, Grau, Rodriguez, Bueno-Orovio, and Orini.
 <br>
-In: Computing in Cardiology (CinC). (Rennes, France), Sept. 2017.
+In: Computing in Cardiology (CinC).
+<br>
+Rennes, France, Sept. 2017.
 
 
 1. ***Investigating the Dependency of the QRS Complex with the MRI-based Heart/Torso Geometries Using Personalised Computer Models.***
 <br>
 Minchol&eacute;, **Zacur**, Lyon, Ariga, Carapella, Villard, Martinez-Navarro, Bueno-Orovio, Grau, and Rodriguez.
 <br>
-In: Computing in Cardiology (CinC). (Rennes, France), Sept. 2017.
+In: Computing in Cardiology (CinC).
+<br>
+Rennes, France, Sept. 2017.
 
 
 1. ***Cardiac Mesh Reconstruction from Sparse, Heterogeneous Contours.***
@@ -491,7 +516,9 @@ In: Computing in Cardiology (CinC). (Rennes, France), Sept. 2017.
 <br>
 Villard, Carapella, Ariga, Grau, and **Zacur**.
 <br>
-In: Medical Image Understanding and Analysis (MIUA). (Edinburgh, United Kingdom), July 2017.
+In: Medical Image Understanding and Analysis (MIUA).
+<br>
+Edinburgh, United Kingdom, July 2017.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-60964-5_15)
 
 
@@ -500,7 +527,9 @@ In: Medical Image Understanding and Analysis (MIUA). (Edinburgh, United Kingdom)
 <br>
 Lyon, Ariga, Minchol&eacute;, **Zacur**, Laguna, Grau, Neubauer, Watkins, and Rodriguez.
 <br>
-In: Conference of the European Medical and Biological Engineering Conference (EMBEC). (Tampere, Finland), June 2017.
+In: Conference of the European Medical and Biological Engineering Conference (EMBEC).
+<br>
+Tampere, Finland, June 2017.
 
 
 1. ***Investigating the Role of Anatomical Variability on ECG Using MRI-based Computer Models of Human Heart and Torso.***
@@ -515,7 +544,9 @@ In: Gordon Conference on Cardiac Arrhythmia Mechanisms. (Ventura, United States)
 <br>
 Mahmod, **Zacur**, D'Souza, Francis, Ariga, Raman, Dass, Myerson, Karamitsos, Neubauer, and Lamata.
 <br>
-In: Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resonance (SCMR). (Washington, United States), Jan. 2017.
+In: Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resonance (SCMR).
+<br>
+Washington, United States, Jan. 2017.
 
 
 1. ***Correction of Slice Misalignment in Multi-breath-hold Cardiac MRI Scans.***
@@ -523,7 +554,9 @@ In: Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resona
 <br>
 Villard, **Zacur**, Dall'Armellina, and Grau.
 <br>
-In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). (Athens, Greece), Oct. 2016.
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM).
+<br>
+Athens, Greece, Oct. 2016.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-52718-5_4)
 
 
@@ -532,7 +565,9 @@ In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart
 <br>
 Allen, **Zacur**, Dall'Armellina, Lamata, and Grau.
 <br>
-In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). (Munich, Germany), Oct. 2015.
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM).
+<br>
+Munich, Germany, Oct. 2015.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-28712-6_20)
 
 
@@ -541,7 +576,9 @@ In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart
 <br>
 **Zacur**, Wong, Razavi, Geva, Greil, and Lamata.
 <br>
-In: International Conference on Functional Imaging and Modeling of the Heart (FIMH). (Maastricht, Netherlands), June 2015.
+In: International Conference on Functional Imaging and Modeling of the Heart (FIMH).
+<br>
+Maastricht, Netherlands, June 2015.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-20309-6_12)
 
 
@@ -550,7 +587,9 @@ In: International Conference on Functional Imaging and Modeling of the Heart (FI
 <br>
 **Zacur**, Bossa, and Olmos.
 <br>
-In: MICCAI Workshop on Mathematical Foundation of Computational Anatomy (MFCA). (Nagoya, Japan), Sept. 2013.
+In: MICCAI Workshop on Mathematical Foundation of Computational Anatomy (MFCA).
+<br>
+Nagoya, Japan, Sept. 2013.
 
 
 1. ***Efficient Characterization of Repolarization Adaptation to Heart Rate Changes.***
@@ -558,7 +597,9 @@ In: MICCAI Workshop on Mathematical Foundation of Computational Anatomy (MFCA). 
 <br>
 Minchol&eacute;, **Zacur**, Pueyo, and Laguna.
 <br>
-In: International Workshop on Biosignal Interpretation (BSI). (Como, Italy), July 2012.
+In: International Workshop on Biosignal Interpretation (BSI).
+<br>
+Como, Italy, July 2012.
 
 
 1. ***On Changing Coordinate Systems for Longitudinal Tensor-based Morphometry.***
@@ -566,7 +607,9 @@ In: International Workshop on Biosignal Interpretation (BSI). (Como, Italy), Jul
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
-In: MICCAI Workshop on Spatio-Temporal Image Analysis for Longitudinal and Time-Series Image Data (STIA). (Beijing, China), Sept. 2010.
+In: MICCAI Workshop on Spatio-Temporal Image Analysis for Longitudinal and Time-Series Image Data (STIA).
+<br>
+Beijing, China, Sept. 2010.
 
 
 1. ***Evaluation of a Method for Quantification of Restitution Dispersion from the Surface ECG.***
@@ -574,28 +617,36 @@ In: MICCAI Workshop on Spatio-Temporal Image Analysis for Longitudinal and Time-
 <br>
 Minchol&eacute;, Pueyo, Rodr&iacute;guez, **Zacur**, Doblar&eacute;, and Laguna.
 <br>
-In: Computing in Cardiology (CinC). (Belfast, United Kingdom), Sept. 2010.
+In: Computing in Cardiology (CinC).
+<br>
+Belfast, United Kingdom, Sept. 2010.
 
 
 1. ***Selection of Registration Parameters with Diffeomorphic Registration for TBM on ADNI Data.***
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
-In: Organization for Human Brain Mapping (OHBM). (Barcelona, Spain), June 2010.
+In: Organization for Human Brain Mapping (OHBM).
+<br>
+Barcelona, Spain, June 2010.
 
 
 1. ***On Alignment Techniques for Statistical Shape Analysis Brain Structures Using Landmark Coordinates.***
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
-In: Organization for Human Brain Mapping (OHBM). (Barcelona, Spain), June 2010.
+In: Organization for Human Brain Mapping (OHBM).
+<br>
+Barcelona, Spain, June 2010.
 
 
 1. ***Dispersion of Action Potential Restitution Quantified from the Surface Electrocardiogram.***
 <br>
 Minchol&eacute;, Pueyo, Rodr&iacute;guez, **Zacur**, and Laguna.
 <br>
-In: Annual Meeting of International Society for Computerized Electrocardiology (ISCE). (Albuquerque, United States), Apr. 2010.
+In: Annual Meeting of International Society for Computerized Electrocardiology (ISCE).
+<br>
+Albuquerque, United States, Apr. 2010.
 
 
 1. ***Tensor-Based Morphometry with Mappings Parameterized by Stationary Velocity Fields in Alzheimer's Disease Neuroimaging Initiative.***
@@ -603,7 +654,9 @@ In: Annual Meeting of International Society for Computerized Electrocardiology (
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
-In: Medical Image Computing and Computer-Assisted Intervention (MICCAI). (London, United Kingdom), Sept. 2009 **(awarded with the 'Best Poster Session Award')**.
+In: Medical Image Computing and Computer-Assisted Intervention (MICCAI).
+<br>
+London, United Kingdom, Sept. 2009 **(awarded with the 'Best Poster Session Award')**.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-642-04271-3_30)
 
 
@@ -612,7 +665,9 @@ In: Medical Image Computing and Computer-Assisted Intervention (MICCAI). (London
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
-In: CVPR Workshop on Mathematical Methods in Biomedical Image Analysis (MMBIA). (Anchorage, United States), June 2008.
+In: CVPR Workshop on Mathematical Methods in Biomedical Image Analysis (MMBIA).
+<br>
+Anchorage, United States, June 2008.
 [![](doi_icon.gif)](http://doi.org/10.1109/CVPRW.2008.4563005)
 
 
@@ -621,7 +676,9 @@ In: CVPR Workshop on Mathematical Methods in Biomedical Image Analysis (MMBIA). 
 <br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.
 <br>
-In: International Digital Games Conference (iDiG). (Portalegre, Portugal), Sept. 2006.
+In: International Digital Games Conference (iDiG).
+<br>
+Portalegre, Portugal, Sept. 2006.
 
 
 1. ***Transferring Facial Expressions to Different Face Models.***
@@ -629,7 +686,9 @@ In: International Digital Games Conference (iDiG). (Portalegre, Portugal), Sept.
 <br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.
 <br>
-In: Ibero-American Symposium in Computer Graphics (SIACG). (Santiago de Compostela, Spain), July 2006.
+In: Ibero-American Symposium in Computer Graphics (SIACG).
+<br>
+Santiago de Compostela, Spain, July 2006.
 
 
 1. ***Transferring a Labeled Generic Rig to Animate Face Models.***
@@ -637,7 +696,9 @@ In: Ibero-American Symposium in Computer Graphics (SIACG). (Santiago de Composte
 <br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.
 <br>
-In: Articulated Motion and Deformable Objects (AMDO). (Mallorca, Spain), July 2006.
+In: Articulated Motion and Deformable Objects (AMDO).
+<br>
+Mallorca, Spain, July 2006.
 [![](doi_icon.gif)](http://doi.org/10.1007/11789239_23)
 
 
@@ -653,7 +714,9 @@ In: World Hydrogen Energy Conference. (Lyon, France), June 2006.
 <br>
 Ortega, Sukno, Lleida, Frangi, Miguel, Buera, and **Zacur**.
 <br>
-In: III Jornadas en Tecnolog&iacute;a del Habla. (Valencia, Spain), Nov. 2004.
+In: III Jornadas en Tecnolog&iacute;a del Habla.
+<br>
+Valencia, Spain, Nov. 2004.
 
 
 1. ***AV@CAR: A Spanish Multichannel Multimodal Corpus for In-Vehicle Automatic Audio-Visual Speech Recognition.***
@@ -661,7 +724,9 @@ In: III Jornadas en Tecnolog&iacute;a del Habla. (Valencia, Spain), Nov. 2004.
 <br>
 Ortega, Sukno, Lleida, Frangi, Miguel, Buera, and **Zacur**.
 <br>
-In: International Conference on Language Resources and Evaluation (LREC). (Lisbon, Portugal), May 2004.
+In: International Conference on Language Resources and Evaluation (LREC).
+<br>
+Lisbon, Portugal, May 2004.
 
 
 --------------------------------
