@@ -73,7 +73,7 @@ In: JACC: Cardiovascular Imaging (in press, available online).
 Orini, Seraphim, Graham, Bhuva, **Zacur**, Kellman, Schilling, Hunter, Dhinoja, Finlay, Ahsan, Chow, Moon, Lambiase, and Manisty.
 <br>
 In: JACC: Clinical Electrophysiology (in press, available online).
-[BIB](bibs/Orini22_JACC_Clinical_Electrophysiology.bib)
+[![](bibtex_icon.gif)](bibs/Orini22_JACC_Clinical_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.10.002)
 
 
@@ -181,7 +181,7 @@ In: EP Europace 21.Suppl 2 (2019), p. ii978.
 Graham, Orini, **Zacur**, Dhillon, Daw, Srinivasan, Lane, Cambridge, Garcia, O'Reilly, Whittaker-Axon, Taggart, Lowe, Finlay, Earley, Chow, Sporton, Dhinoja, Schilling, Hunter, and Lambiase.
 <br>
 In: Circulation: Arrhythmia and Electrophysiology 12.4 (2019), e007120.
-[BIB](bibs/Graham19_Circulation_Arrhythmia_and_Electrophysiology.bib)
+[![](bibtex_icon.gif)](bibs/Graham19_Circulation_Arrhythmia_and_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1161/CIRCEP.118.007120)
 
 
@@ -193,7 +193,7 @@ In: Circulation: Arrhythmia and Electrophysiology 12.4 (2019), e007120.
 Graham, Orini, **Zacur**, Dhillon, van Duijvenboden, Daw, Cambridge, Garcia, Hunter, Dhinoja, and Lambiase.
 <br>
 In: EP Europace 20.Suppl 4 (2018), p. iv20.
-[BIB](bibs/Graham18_EP_Europace.bib)
+[![](bibtex_icon.gif)](bibs/Graham18_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/http://academic.oup.com/europace/article/20/suppl_4/iv20/5125825)
 
 
@@ -205,7 +205,7 @@ In: EP Europace 20.Suppl 4 (2018), p. iv20.
 Lyon, Bueno-Orovio, **Zacur**, Ariga, Grau, Neubauer, Watkins, Rodriguez, and Minchol&eacute;.
 <br>
 In: EP Europace 20.Suppl 3 (2018), pp. iii102-iii112.
-[BIB](bibs/Lyon18_EP_Europace.bib)
+[![](bibtex_icon.gif)](bibs/Lyon18_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euy226)
 
 
