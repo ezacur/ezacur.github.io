@@ -40,7 +40,7 @@
 <br>
 Beetz, Corral-Acero, Banerjee,  Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau.
 <br>
-In: Frontiers in Cardiovascular Medicine 9 (2022).
+*In: Frontiers in Cardiovascular Medicine 9 (2022).*
 [![](bibtex_icon.gif)](bibs/Beetz22_Frontiers_in_Cardiovascular_Medicine.bib)
 [![](doi_icon.gif)](http://doi.org/10.3389/fcvm.2022.983868)
 
@@ -51,7 +51,7 @@ In: Frontiers in Cardiovascular Medicine 9 (2022).
 <br>
 Bertagnolli, Dartora, Lamata, **Zacur**, Mai-Vo, He, Beauchamp, Lewandowski, Cloutier, Sutherland, Santos, and Nuyt.
 <br>
-In: Hypertension 79.8 (2022), pp. 1789&ndash;1803.
+*In: Hypertension 79.8 (2022), pp. 1789&ndash;1803.*
 [![](bibtex_icon.gif)](bibs/Bertagnolli22_Hypertension.bib)
 [![](doi_icon.gif)](http://doi.org/10.1161/HYPERTENSIONAHA.122.19115)
 
@@ -61,7 +61,7 @@ In: Hypertension 79.8 (2022), pp. 1789&ndash;1803.
 <br>
 Graham, Orini, **Zacur**, Dhillon, Jones, Prabhu, Pugliese, Lowe, Ahsan, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.
 <br>
-In: JACC: Clinical Electrophysiology 8.4 (2022), pp. 426&ndash;436.
+*In: JACC: Clinical Electrophysiology 8.4 (2022), pp. 426&ndash;436.*
 [![](bibtex_icon.gif)](bibs/Graham22_JACC_Clinical_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.11.011)
 
@@ -72,7 +72,7 @@ In: JACC: Clinical Electrophysiology 8.4 (2022), pp. 426&ndash;436.
 <br>
 Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Orovio, Lamata, Eitel, and Grau.
 <br>
-In: JACC: Cardiovascular Imaging 15.9 (2022), pp. 1563&ndash;1574.
+*In: JACC: Cardiovascular Imaging 15.9 (2022), pp. 1563&ndash;1574.*
 [![](bibtex_icon.gif)](bibs/CorralAcero22_JACC_Cardiovascular_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jcmg.2021.11.027)
 
@@ -84,7 +84,7 @@ In: JACC: Cardiovascular Imaging 15.9 (2022), pp. 1563&ndash;1574.
 <br>
 Orini, Seraphim, Graham, Bhuva, **Zacur**, Kellman, Schilling, Hunter, Dhinoja, Finlay, Ahsan, Chow, Moon, Lambiase, and Manisty.
 <br>
-In: JACC: Clinical Electrophysiology 8.2 (2022), pp. 225&ndash;235.
+*In: JACC: Clinical Electrophysiology 8.2 (2022), pp. 225&ndash;235.*
 [![](bibtex_icon.gif)](bibs/Orini22_JACC_Clinical_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.10.002)
 
@@ -96,7 +96,7 @@ In: JACC: Clinical Electrophysiology 8.2 (2022), pp. 225&ndash;235.
 <br>
 Banerjee, Camps, **Zacur**, Andrews, Rudy, Choudhury, Rodriguez, and Grau.
 <br>
-In: Philosophical Transactions of the Royal Society A 379.2212 (2021), 20200257.
+*In: Philosophical Transactions of the Royal Society A 379.2212 (2021), 20200257.*
 [![](bibtex_icon.gif)](bibs/Banerjee21_Philosophical_Transactions_of_the_Royal_Society_A.bib)
 [![](doi_icon.gif)](http://doi.org/10.1098/rsta.2020.0257)
 
@@ -108,7 +108,7 @@ In: Philosophical Transactions of the Royal Society A 379.2212 (2021), 20200257.
 <br>
 Banerjee, Galassi, **Zacur**, De Maria, Choudhury, and Grau.
 <br>
-In: IEEE Transactions on Medical Imaging 39.4 (2020), pp. 1278&ndash;1290.
+*In: IEEE Transactions on Medical Imaging 39.4 (2020), pp. 1278&ndash;1290.*
 [![](bibtex_icon.gif)](bibs/Banerjee20_Transactions_on_Medical_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1109/TMI.2019.2944092)
 
@@ -120,7 +120,7 @@ In: IEEE Transactions on Medical Imaging 39.4 (2020), pp. 1278&ndash;1290.
 <br>
 Corral-Acero, Margara, Marciniak, Rodero, Loncaric, Feng, Gilbert, Fernandes, Bukhari, Wajdan, Villegas-Martinez, Santos, Shamohammdi, Luo, Westphal, Leeson, DiAchille, Gurev, Mayr, Geris, Pathmanathan, Morrison, Cornelussen, Prinzen, Delhaas, Doltra, Sitges, Vigmond, **Zacur**, Grau, Rodriguez, Remme, Niederer, Mortier, McLeod, Potse, Pueyo, Bueno-Orovio, and Lamata.
 <br>
-In: European Heart Journal 41.48 (2020), pp. 4556&ndash;4564.
+*In: European Heart Journal 41.48 (2020), pp. 4556&ndash;4564.*
 [![](bibtex_icon.gif)](bibs/CorralAcero20_European_Heart_Journal.bib)
 [![](doi_icon.gif)](http://doi.org/10.1093/eurheartj/ehaa159)
 
@@ -132,7 +132,7 @@ In: European Heart Journal 41.48 (2020), pp. 4556&ndash;4564.
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Srinivasan, Martin, Lane, Mansell, Cambridge, Garcia, Pugliese, Segal, Ahsan, Lowe, Finlay, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.
 <br>
-In: Circulation: Arrhythmia and Electrophysiology 13.2 (2020), e007377.
+*In: Circulation: Arrhythmia and Electrophysiology 13.2 (2020), e007377.*
 [![](bibtex_icon.gif)](bibs/Graham20_Circulation_Arrhythmia_and_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1161/CIRCEP.119.007377)
 
@@ -144,7 +144,7 @@ In: Circulation: Arrhythmia and Electrophysiology 13.2 (2020), e007377.
 <br>
 Levrero-Florencio, Margara, **Zacur**, Bueno-Orovio, Wang, Santiago, Aguado-Sierra, Houzeaux, Grau, Kay, V&aacute;zquez, Ruiz-Baier, and Rodriguez.
 <br>
-In: Computer Methods in Applied Mechanics and Engineering 361 (2020), 112762.
+*In: Computer Methods in Applied Mechanics and Engineering 361 (2020), 112762.*
 [![](bibtex_icon.gif)](bibs/LevreroFlorencio20_Computer_Methods_in_Applied_Mechanics_and_Engineering.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.cma.2019.112762)
 
@@ -156,7 +156,7 @@ In: Computer Methods in Applied Mechanics and Engineering 361 (2020), 112762.
 <br>
 Minchol&eacute;, **Zacur** _(joint first author)_, Ariga, Grau, and Rodriguez.
 <br>
-In: Frontiers in Physiology 10. 1103 (2019).
+*In: Frontiers in Physiology 10. 1103 (2019).*
 [![](bibtex_icon.gif)](bibs/Minchole19_Frontiers_in_Physiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.3389/fphys.2019.01103)
 
@@ -168,7 +168,7 @@ In: Frontiers in Physiology 10. 1103 (2019).
 <br>
 Chan, Mahmod, **Zacur**, Rigolli, D'Souza, Francis, Ariga, Raman, Dass, Karamitsos, Neubauer, Myerson, and Lamata.
 <br>
-In: Heart 105.Suppl 6 (2019), A18.
+*In: Heart 105.Suppl 6 (2019), A18.*
 [![](bibtex_icon.gif)](bibs/Chan19_Heart.bib)
 [![](doi_icon.gif)](http://doi.org/10.1136/heartjnl-2019-BCS.19)
 
@@ -180,7 +180,7 @@ In: Heart 105.Suppl 6 (2019), A18.
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Cambridge, Dhinoja, Chow, Sporton, Hunter, and Lambiase.
 <br>
-In: EP Europace 21.Suppl 2 (2019), p. ii978.
+*In: EP Europace 21.Suppl 2 (2019), p. ii978.*
 [![](bibtex_icon.gif)](bibs/Graham19_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euz103)
 
@@ -192,7 +192,7 @@ In: EP Europace 21.Suppl 2 (2019), p. ii978.
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Srinivasan, Lane, Cambridge, Garcia, O'Reilly, Whittaker-Axon, Taggart, Lowe, Finlay, Earley, Chow, Sporton, Dhinoja, Schilling, Hunter, and Lambiase.
 <br>
-In: Circulation: Arrhythmia and Electrophysiology 12.4 (2019), e007120.
+*In: Circulation: Arrhythmia and Electrophysiology 12.4 (2019), e007120.*
 [![](bibtex_icon.gif)](bibs/Graham19_Circulation_Arrhythmia_and_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1161/CIRCEP.118.007120)
 
@@ -204,7 +204,7 @@ In: Circulation: Arrhythmia and Electrophysiology 12.4 (2019), e007120.
 <br>
 Graham, Orini, **Zacur**, Dhillon, van Duijvenboden, Daw, Cambridge, Garcia, Hunter, Dhinoja, and Lambiase.
 <br>
-In: EP Europace 20.Suppl 4 (2018), p. iv20.
+*In: EP Europace 20.Suppl 4 (2018), p. iv20.*
 [![](bibtex_icon.gif)](bibs/Graham18_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/http://academic.oup.com/europace/article/20/suppl_4/iv20/5125825)
 
@@ -216,7 +216,7 @@ In: EP Europace 20.Suppl 4 (2018), p. iv20.
 <br>
 Lyon, Bueno-Orovio, **Zacur**, Ariga, Grau, Neubauer, Watkins, Rodriguez, and Minchol&eacute;.
 <br>
-In: EP Europace 20.Suppl 3 (2018), pp. iii102-iii112.
+*In: EP Europace 20.Suppl 3 (2018), pp. iii102-iii112.*
 [![](bibtex_icon.gif)](bibs/Lyon18_EP_Europace.bib)
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euy226)
 
@@ -228,7 +228,7 @@ In: EP Europace 20.Suppl 3 (2018), pp. iii102-iii112.
 <br>
 Villard, Grau, and **Zacur**.
 <br>
-In: Journal of Imaging 4.1 (2018).
+*In: Journal of Imaging 4.1 (2018).*
 [![](bibtex_icon.gif)](bibs/Villard18_Journal_of_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.3390/jimaging4010016)
 
@@ -240,7 +240,7 @@ In: Journal of Imaging 4.1 (2018).
 <br>
 Warriner, Jackson, **Zacur**, Sammut, Sheridan, Hose, Lawford, Razavi, Niederer, Rinaldi, and Lamata.
 <br>
-In: JACC: Cardiovascular Imaging 11.10 (2018), pp. 1545&ndash;1546.
+*In: JACC: Cardiovascular Imaging 11.10 (2018), pp. 1545&ndash;1546.*
 [![](bibtex_icon.gif)](bibs/Warriner18_JACC_Cardiovascular_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jcmg.2018.01.022)
 
@@ -252,7 +252,7 @@ In: JACC: Cardiovascular Imaging 11.10 (2018), pp. 1545&ndash;1546.
 <br>
 Varela, Bisbal, **Zacur**, Berruezo, Aslanidi, Mont, and Lamata.
 <br>
-In: Frontiers in Physiology 8.68 (2017).
+*In: Frontiers in Physiology 8.68 (2017).*
 [![](bibtex_icon.gif)](bibs/Varela17_Frontiers_in_Physiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.3389/fphys.2017.00068)
 
@@ -264,24 +264,26 @@ In: Frontiers in Physiology 8.68 (2017).
 <br>
 Dutta, Minchol&eacute;, **Zacur**, Quinn, Taggart, and Rodriguez.
 <br>
-In: Progress in Biophysics and Molecular Biology 120.1 (2016). Recent Developments in Biophysics Molecular Biology of Heart Rhythm, pp. 236&ndash;248.
+*In: Progress in Biophysics and Molecular Biology 120.1 (2016). Recent Developments in Biophysics Molecular Biology of Heart Rhythm, pp. 236&ndash;248.*
 [![](bibtex_icon.gif)](bibs/Dutta16_Progress_in_Biophysics_and_Molecular_Biology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.pbiomolbio.2016.01.008)
 
 
 
 12. ***Adverse Left Ventricular Remodelling Patterns Predict Response to Cardiac Resynchronization Therapy.***
+<br>
 Gonzalez, Warriner, Jackson, Sammut, **Zacur**, Hose, Razavi, Smith, and Lamata.
 <br>
-In: Circulation 132.Suppl 3 (2015), A16108.
+*In: Circulation 132.Suppl 3 (2015), A16108.*
 [![](doi_icon.gif)](http://doi.org/10.1161/circ.132.suppl_3.16108)
 
 
 
 11. ***Optimal Prediction of Atrial Fibrillation Recurrence After Ablation: A Computational Anatomy Study.***
+<br>
 Varela, Bisbal, **Zacur**, Guiu, Berruezo, Sitges, Prat, Aslanidi, Mont, and Lamata.
 <br>
-In: Circulation 132.Suppl 3 (2015), A12471.
+*In: Circulation 132.Suppl 3 (2015), A12471.*
 [![](doi_icon.gif)](http://doi.org/10.1161/circ.132.suppl_3.12471)
 
 
@@ -291,7 +293,7 @@ In: Circulation 132.Suppl 3 (2015), A12471.
 <br>
 **Zacur**, Bossa, and Olmos.
 <br>
-In: SIAM Journal on Imaging Sciences 7.3 (2014), pp. 1503&ndash;1557.
+*In: SIAM Journal on Imaging Sciences 7.3 (2014), pp. 1503&ndash;1557.*
 [![](bibtex_icon.gif)](bibs/Zacur14_SIAM_Journal_on_Imaging_Sciences.bib)
 [![](doi_icon.gif)](http://doi.org/10.1137/130928352)
 
@@ -302,7 +304,7 @@ In: SIAM Journal on Imaging Sciences 7.3 (2014), pp. 1503&ndash;1557.
 <br>
 **Zacur**, Bossa, and Olmos.
 <br>
-In: Journal of Mathematical Imaging and Vision 50 (2014), pp. 18&ndash;31.
+*In: Journal of Mathematical Imaging and Vision 50 (2014), pp. 18&ndash;31.*
 [![](bibtex_icon.gif)](bibs/Zacur14_Journal_of_Mathematical_Imaging_and_Vision.bib)
 [![](doi_icon.gif)](http://doi.org/10.1007/s10851-013-0479-7)
 
@@ -313,7 +315,7 @@ In: Journal of Mathematical Imaging and Vision 50 (2014), pp. 18&ndash;31.
 <br>
 Fullana, Cardoner, Alonso, Subir&agrave;, L&oacute;pez-Sol&agrave;, Pujol, Segal&agrave;s, Real, Bossa, **Zacur**, Mart�nez-Zalaca�n, Bulbena, Mench�n, Olmos, and Soriano-Mas.
 <br>
-In: Psychological Medicine 44.4 (2014), pp. 845&ndash;856.
+*In: Psychological Medicine 44.4 (2014), pp. 845&ndash;856.*
 [![](bibtex_icon.gif)](bibs/Fullana14_Psychological_Medicine.bib)
 [![](doi_icon.gif)](http://doi.org/10.1017/S0033291713001128)
 
@@ -324,7 +326,7 @@ In: Psychological Medicine 44.4 (2014), pp. 845&ndash;856.
 <br>
 Minchol&eacute;, **Zacur**, Pueyo, and Laguna.
 <br>
-In: Methods of Information in Medicine 53.4 (2014), pp. 324&ndash;328.
+*In: Methods of Information in Medicine 53.4 (2014), pp. 324&ndash;328.*
 [![](bibtex_icon.gif)](bibs/Minchole14_Methods_of_Information_in_Medicine.bib)
 [![](doi_icon.gif)](http://doi.org/10.3414/ME13-02-0040)
 
@@ -335,7 +337,7 @@ In: Methods of Information in Medicine 53.4 (2014), pp. 324&ndash;328.
 <br>
 Minchol&eacute;, Pueyo, Rodr&iacute;guez, **Zacur**, Doblar&eacute;, and Laguna.
 <br>
-In: IEEE Transactions on Biomedical Engineering 58.5 (2011), pp. 1172&ndash;1182.
+*In: IEEE Transactions on Biomedical Engineering 58.5 (2011), pp. 1172&ndash;1182.*
 [![](bibtex_icon.gif)](bibs/Minchole11_Transactions_on_Biomedical_Engineering.bib)
 [![](doi_icon.gif)](http://doi.org/10.1109/tbme.2010.2097597)
 
@@ -346,7 +348,7 @@ In: IEEE Transactions on Biomedical Engineering 58.5 (2011), pp. 1172&ndash;1182
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
-In: NeuroImage 55.3 (2011), pp. 999&ndash;1008.
+*In: NeuroImage 55.3 (2011), pp. 999&ndash;1008.*
 [![](bibtex_icon.gif)](bibs/Bossa11_NeuroImage.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.neuroimage.2010.12.078)
 
@@ -357,7 +359,7 @@ In: NeuroImage 55.3 (2011), pp. 999&ndash;1008.
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
-In: NeuroImage 51.3 (2010), pp. 956&ndash;969.
+*In: NeuroImage 51.3 (2010), pp. 956&ndash;969.*
 [![](bibtex_icon.gif)](bibs/Bossa10_NeuroImage.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.neuroimage.2010.02.061)
 
@@ -368,7 +370,7 @@ In: NeuroImage 51.3 (2010), pp. 956&ndash;969.
 <br>
 Meinhardt, **Zacur**, Frangi, and Caselles.
 <br>
-In: Journal of Mathematical Imaging and Vision 34.1 (2009), pp. 1&ndash;16.
+*In: Journal of Mathematical Imaging and Vision 34.1 (2009), pp. 1&ndash;16.*
 [![](bibtex_icon.gif)](bibs/Meinhardt09_Journal_of_Mathematical_Imaging_and_Vision.bib)
 [![](doi_icon.gif)](http://doi.org/10.1007/s10851-008-0118-x)
 
@@ -379,7 +381,7 @@ In: Journal of Mathematical Imaging and Vision 34.1 (2009), pp. 1&ndash;16.
 <br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.
 <br>
-In: Computer Graphics Forum 27.8 (2008), pp. 1997&ndash;2012.
+*In: Computer Graphics Forum 27.8 (2008), pp. 1997&ndash;2012.*
 [![](bibtex_icon.gif)](bibs/CostaOrvalho08_Computer_Graphics_Forum.bib)
 [![](doi_icon.gif)](http://doi.org/10.1111/j.1467-8659.2008.01187.x)
 
@@ -390,7 +392,7 @@ In: Computer Graphics Forum 27.8 (2008), pp. 1997&ndash;2012.
 <br>
 Meyer, Arneodo Larochette, Baruj, Castro, Lacharmoise, **Zacur**, and Talaga&ntilde;is.
 <br>
-In: Review of Scientific Instruments 78.2 (2007), 023903.
+*In: Review of Scientific Instruments 78.2 (2007), 023903.*
 [![](bibtex_icon.gif)](bibs/Meyer07_Review_of_Scientific_Instruments.bib)
 [![](doi_icon.gif)](http://doi.org/10.1063/1.2437160)
 
