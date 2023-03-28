@@ -34,7 +34,8 @@
 
 {: reversed="reversed"}
 
-32. ![Open Access](open_access.gif)***Interpretable cardiac anatomy modeling using variational mesh autoencoders.***
+32. ***Interpretable Cardiac Anatomy Modeling Using Variational Mesh Autoencoders.***
+![Open Access](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Beetz22_Frontiers_in_Cardiovascular_Medicine.pdf)
 <br>
 Beetz, Corral-Acero, Banerjee,  Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau.
@@ -171,7 +172,7 @@ In: Heart 105.Suppl 6 (2019), A18.
 
 
 
-20. ***1352: Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
+20. ***Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
 ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Graham19_EP_Europace.pdf)
 <br>
@@ -800,5 +801,5 @@ Lisbon, Portugal, May 2004.
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/ezacur_github_io/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ZXphY3VyLmdpdGh1Yi5pbw==/count.svg)
 
