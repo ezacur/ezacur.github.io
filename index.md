@@ -231,6 +231,7 @@ Villard, Grau, and **Zacur**.
 *In: Journal of Imaging 4.1 (2018).*
 [![](bibtex_icon.gif)](bibs/Villard18_Journal_of_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.3390/jimaging4010016)
+[**CODE**](https://github.com/BenVillard/surfco)
 
 
 
@@ -524,14 +525,18 @@ Granada, Spain, Sept. 2018.
 <br>
 Carapella, **Zacur**, Kvalem Soto, Lino de Oliveira, and Sundnes.
 <br>
-In: Virtual Physiological Human Conference. (Zaragoza, Spain), Sept. 2018.
+In: Virtual Physiological Human Conference.
+<br>
+Zaragoza, Spain, Sept. 2018.
 
 
 28. ***Clinical MRI-based Multiscale Computational Models of Heart and Torso to Investigate the Role of Anatomy on ECG.***
 <br>
 Minchol&eacute;, **Zacur**, Grau, and Rodriguez.
 <br>
-In: Virtual Physiological Human Conference. (Zaragoza, Spain), Sept. 2018.
+In: Virtual Physiological Human Conference.
+<br>
+Zaragoza, Spain, Sept. 2018.
 
 
 27. ***ISACHI: Integrated Segmentation and Alignment Correction of Heart Images.***
@@ -607,7 +612,9 @@ Tampere, Finland, June 2017.
 <br>
 Minchol&eacute;, **Zacur**, Lyon, Ariga, Cardone-Noott, Villard, Martinez-Navarro, Bueno-Orovio, Watkins, Grau, and Rodriguez.
 <br>
-In: Gordon Conference on Cardiac Arrhythmia Mechanisms. (Ventura, United States), Feb. 2017.
+In: Gordon Conference on Cardiac Arrhythmia Mechanisms.
+<br>
+Ventura, United States, Feb. 2017.
 
 
 19. ***Assessment of Left Ventricular Shape and Remodelling Pattern in Severe Aortic Stenosis Before and After Aortic Valve Replacement.***
@@ -778,7 +785,9 @@ Mallorca, Spain, July 2006.
 <br>
 Talaga&ntilde;is, **Zacur**, Lacharmoise, Castro, and Meyer.
 <br>
-In: World Hydrogen Energy Conference. (Lyon, France), June 2006.
+In: World Hydrogen Energy Conference.
+<br>
+Lyon, France, June 2006.
 
 
 2. ***Base de Datos Audiovisual y Multicanal en Castellano para Reconocimiento Autom&aacute;tico del Habla en el Autom&oacute;vil.***
