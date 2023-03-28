@@ -5,7 +5,7 @@
 * **2014**
     > **PhD in Biomedical Engineering**
     >
-    > Aragon Institute of Engineering Research (I3A), University of Zaragoza, Spain.
+    > [Aragon Institute of Engineering Research (I3A)](http://i3a.unizar.es/), University of Zaragoza, Spain.
     >
     > *PhD Thesis title:* **"Computational Anatomy and Brain Morphometry"**.
 [![](pdf_icon.gif)](pdfs/PhDThesis_Zacur_2014.pdf)
@@ -16,7 +16,7 @@
 * **2003**
     > **MSc in Physics - specialization: Technological Physics**
     >
-    > Balseiro Institute, National University of Cuyo, Bariloche, Argentina.
+    > [Balseiro Institute](http://www.ib.edu.ar/), National University of Cuyo, Bariloche, Argentina.
     >
     > MSc Thesis title: "Desarrollo de una Metodología para el Diseño de Bombas Centrífugas" ("Development of a methodology for the design of centrifugal pumps").
 [![](pdf_icon.gif)](pdfs/MasterTesis_Zacur_2003.pdf)
@@ -33,6 +33,16 @@
 # List of papers in Journals
 
 {: reversed="reversed"}
+
+32. ***Interpretable cardiac anatomy modeling using variational mesh autoencoders.***
+![Open Access](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Beetz22_Frontiers_in_Cardiovascular_Medicine.pdf)
+<br>
+Beetz, Corral-Acero, Banerjee,  Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau.
+<br>
+In: Frontiers in Cardiovascular Medicine 9 (2022).
+[![](bibtex_icon.gif)](bibs/Beetz22_Frontiers_in_Cardiovascular_Medicine.bib)
+[![](doi_icon.gif)](http://doi.org/10.3389/fcvm.2022.983868)
 
 
 31. ***Reshaping the Preterm Heart: Shifting Cardiac Renin-Angiotensin System Towards Cardioprotection in Rats Exposed to Neonatal High-Oxygen Stress.***
@@ -60,13 +70,14 @@ In: JACC: Clinical Electrophysiology 8.4 (2022), pp. 426&ndash;436.
 <br>
 Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Orovio, Lamata, Eitel, and Grau.
 <br>
-In: JACC: Cardiovascular Imaging (in press, available online).
+In: JACC: Cardiovascular Imaging 15.9 (2022), pp. 1563&ndash;1574.
 [![](bibtex_icon.gif)](bibs/CorralAcero22_JACC_Cardiovascular_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jcmg.2021.11.027)
 
 
 
 28. ***Detailed Assessment of Low-voltage Zones Localization by Cardiac MRI in Patients with Implantable Devices.***
+![Open Access](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Orini22_JACC_Clinical_Electrophysiology.pdf)
 <br>
 Orini, Seraphim, Graham, Bhuva, **Zacur**, Kellman, Schilling, Hunter, Dhinoja, Finlay, Ahsan, Chow, Moon, Lambiase, and Manisty.
@@ -383,31 +394,54 @@ In: Review of Scientific Instruments 78.2 (2007), 023903.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 --------------------------------
 # List of contributions to Conferences
 
 
 {: reversed="reversed"}
-1. ***Optimised Misalignment Correction from Cine MR Slices Using Statistical Shape Model.***
+40. ***Post-Infarction Risk Prediction with Mesh Classification Networks.***
+[![](pdf_icon.gif)](pdfs/STACOM_2022b.pdf)
+<br>
+Beetz, Corral-Acero, Banerjee, Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau. 
+<br>
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM).
+<br>
+Singapore, Sept. 2022.
+[![](doi_icon.gif)](http://doi.org/10.1007/978-3-031-23443-9_27)
+
+
+39. ***Mesh U-Nets for 3D Cardiac Deformation Modeling.***
+[![](pdf_icon.gif)](pdfs/STACOM_2022a.pdf)
+<br>
+Beetz, Corral-Acero, Banerjee, Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau.
+<br>
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM).
+<br>
+Singapore, Sept. 2022.
+[![](doi_icon.gif)](http://doi.org/10.1007/978-3-031-23443-9_23)
+
+
+38. ***Risk Assessment After Myocardial Infarction Using Automated Left Ventricular Shape Analysis vs Myocardial Strains.***
+<br>
+Corral-Acero, Schuster, Eitel, **Zacur**, Evertz, Lange, Backhaus, Stiermaier, Thiele, Bueno-Orovio, Lamata, and Grau.
+<br>
+In: Clinical Translation of Medical Image Computing and Computer Assisted Interventions (CLINICCAI).
+<br>
+Singapore, Sept. 2022.
+
+
+37. ***Automated 3D Whole-Heart Mesh Reconstruction From 2D Cine MR Slices Using Statistical Shape Model.***
+[![](pdf_icon.gif)](pdfs/EMBC_2022.pdf)
+<br>
+Banerjee, **Zacur**, Choudhury, and Grau.
+<br>
+In: International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+<br>
+Glasgow, Scotland, UK, July 2022.
+[![](doi_icon.gif)](http://doi.org/10.1109/EMBC48229.2022.9871327)
+
+
+36. ***Optimised Misalignment Correction from Cine MR Slices Using Statistical Shape Model.***
 [![](pdf_icon.gif)](pdfs/MIUA_2021.pdf)
 <br>
 Banerjee, **Zacur**, Choudhury, and Grau.
@@ -418,7 +452,7 @@ Oxford, United Kingdom, July 2021.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-80432-9_16)
 
 
-1. ***Synthesising Images and Labels between MR Sequence Types With CycleGAN.***
+35. ***Synthesising Images and Labels between MR Sequence Types With CycleGAN.***
 [![](pdf_icon.gif)](pdfs/DART_2019.pdf)
 <br>
 Kerfoot, Puyol-Ant&oacute;n, Ruijsink, Ariga, **Zacur**, Lamata, and Schnabel.
@@ -429,7 +463,7 @@ Shenzhen, China, Oct. 2019.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-33391-1_6)
 
 
-1. ***Left Ventricle Quantification with Cardiac MRI: Deep Learning Meets Statistical Models of Deformation.***
+34. ***Left Ventricle Quantification with Cardiac MRI: Deep Learning Meets Statistical Models of Deformation.***
 [![](pdf_icon.gif)](pdfs/STACOM_2019.pdf)
 <br>
 Corral-Acero, Xu, **Zacur**, Schneider, Lamata, Bueno-Orovio, and Grau.
@@ -440,7 +474,7 @@ Shenzhen, China, Oct. 2019 (winner of the 'Left Ventricle Full Quantification Ch
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-39074-7_40)
 
 
-1. ***Ventricle Surface Reconstruction from Cardiac MR Slices Using Deep Learning.***
+33. ***Ventricle Surface Reconstruction from Cardiac MR Slices Using Deep Learning.***
 [![](pdf_icon.gif)](pdfs/FIMH_2019a.pdf)
 <br>
 Xu, **Zacur**, Schneider, and Grau.
@@ -451,7 +485,7 @@ Bordeaux, France, June 2019.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-21949-9_37)
 
 
-1. ***SMOD - Data Augmentation Based on Statistical Models of Deformation to Enhance Segmentation in 2D Cine Cardiac MRI.***
+32. ***SMOD - Data Augmentation Based on Statistical Models of Deformation to Enhance Segmentation in 2D Cine Cardiac MRI.***
 [![](pdf_icon.gif)](pdfs/FIMH_2019b.pdf)
 <br>
 Corral-Acero, **Zacur**, Xu, Ariga, Bueno-Orovio, Lamata, and Grau.
@@ -461,7 +495,7 @@ In: International Conference on Functional Imaging and Modeling of the Heart (FI
 Bordeaux, France, June 2019 (awarded with the 'Best Paper Award').
 
 
-1. ***Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
+31. ***Direct Validation Electrocardiography Imaging (ECGi) by Epicardial Contact Mapping during VT Ablation.***
 <br>
 Graham, Orini, **Zacur**, Dhillon, Daw, Cambridge, Dhinoja, Chow, Sporton, Hunter, and Lambiase.
 <br>
@@ -470,7 +504,7 @@ In: European Heart Rhythm Association Annual Congress (EHRA).
 Lisbon, Portugal, Mar. 2019.
 
 
-1. ***ISACHI: Integrated Segmentation and Alignment Correction for Heart Images.***
+30. ***ISACHI: Integrated Segmentation and Alignment Correction for Heart Images.***
 [![](pdf_icon.gif)](pdfs/STACOM_2018.pdf)
 <br>
 Villard, **Zacur**, and Grau.
@@ -481,7 +515,7 @@ Granada, Spain, Sept. 2018.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-12029-0_19)
 
 
-1. ***Modular Workflow for in Silico Studies of Atrial Electrophysiology.***
+29. ***Modular Workflow for in Silico Studies of Atrial Electrophysiology.***
 [![](pdf_icon.gif)](pdfs/VPH_2018a.pdf)
 <br>
 Carapella, **Zacur**, Kvalem Soto, Lino de Oliveira, and Sundnes.
@@ -489,14 +523,14 @@ Carapella, **Zacur**, Kvalem Soto, Lino de Oliveira, and Sundnes.
 In: Virtual Physiological Human Conference. (Zaragoza, Spain), Sept. 2018.
 
 
-1. ***Clinical MRI-based Multiscale Computational Models of Heart and Torso to Investigate the Role of Anatomy on ECG.***
+28. ***Clinical MRI-based Multiscale Computational Models of Heart and Torso to Investigate the Role of Anatomy on ECG.***
 <br>
 Minchol&eacute;, **Zacur**, Grau, and Rodriguez.
 <br>
 In: Virtual Physiological Human Conference. (Zaragoza, Spain), Sept. 2018.
 
 
-1. ***ISACHI: Integrated Segmentation and Alignment Correction of Heart Images.***
+27. ***ISACHI: Integrated Segmentation and Alignment Correction of Heart Images.***
 <br>
 Villard, Grau, and **Zacur**.
 <br>
@@ -505,7 +539,7 @@ In: International Conference of the IEEE Engineering in Medicine and Biology Soc
 Honolulu, United States, July 2018.
 
 
-1. ***SurFCo: Surface Mesh From Contours.***
+26. ***SurFCo: Surface Mesh From Contours.***
 <br>
 Villard, Grau, and **Zacur**.
 <br>
@@ -514,7 +548,7 @@ In: IEEE International Symposium on Biomedical Imaging (ISBI).
 Washington, United States, Apr. 2018.
 
 
-1. ***MRI-Based Heart and Torso Personalization for Computer Modeling and Simulation of Cardiac Electrophysiology.***
+25. ***MRI-Based Heart and Torso Personalization for Computer Modeling and Simulation of Cardiac Electrophysiology.***
 [![](pdf_icon.gif)](pdfs/BIVPCS_2017.pdf)
 <br>
 **Zacur**, Minchol&eacute;, Villard, Carapella, Ariga, Rodriguez, and Grau.
@@ -525,7 +559,7 @@ Quebec, Canada, Sept. 2017.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-67552-7_8)
 
 
-1. ***Quantification of the Anatomical Remodelling of the Ventricles of Arrhythmogenic Right Ventricular Cardiomyopathy Patients, an MRI Based Imaging Study.***
+24. ***Quantification of the Anatomical Remodelling of the Ventricles of Arrhythmogenic Right Ventricular Cardiomyopathy Patients, an MRI Based Imaging Study.***
 <br>
 Marinov, **Zacur**, Lambiase, Grau, Rodriguez, Bueno-Orovio, and Orini.
 <br>
@@ -534,7 +568,7 @@ In: Computing in Cardiology (CinC).
 Rennes, France, Sept. 2017.
 
 
-1. ***Investigating the Dependency of the QRS Complex with the MRI-based Heart/Torso Geometries Using Personalised Computer Models.***
+23. ***Investigating the Dependency of the QRS Complex with the MRI-based Heart/Torso Geometries Using Personalised Computer Models.***
 <br>
 Minchol&eacute;, **Zacur**, Lyon, Ariga, Carapella, Villard, Martinez-Navarro, Bueno-Orovio, Grau, and Rodriguez.
 <br>
@@ -543,7 +577,7 @@ In: Computing in Cardiology (CinC).
 Rennes, France, Sept. 2017.
 
 
-1. ***Cardiac Mesh Reconstruction from Sparse, Heterogeneous Contours.***
+22. ***Cardiac Mesh Reconstruction from Sparse, Heterogeneous Contours.***
 [![](pdf_icon.gif)](pdfs/MIUA_2017.pdf)
 <br>
 Villard, Carapella, Ariga, Grau, and **Zacur**.
@@ -554,7 +588,7 @@ Edinburgh, United Kingdom, July 2017.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-60964-5_15)
 
 
-1. ***Risk Stratification in Hypertrophic Cardiomyopathy Using ECG-based Clustering and Personalized Computer Simulations.***
+21. ***Risk Stratification in Hypertrophic Cardiomyopathy Using ECG-based Clustering and Personalized Computer Simulations.***
 [![](pdf_icon.gif)](pdfs/EMBEC_2017.pdf)
 <br>
 Lyon, Ariga, Minchol&eacute;, **Zacur**, Laguna, Grau, Neubauer, Watkins, and Rodriguez.
@@ -564,7 +598,7 @@ In: Conference of the European Medical and Biological Engineering Conference (EM
 Tampere, Finland, June 2017.
 
 
-1. ***Investigating the Role of Anatomical Variability on ECG Using MRI-based Computer Models of Human Heart and Torso.***
+20. ***Investigating the Role of Anatomical Variability on ECG Using MRI-based Computer Models of Human Heart and Torso.***
 [![](pdf_icon.gif)](pdfs/GC_2017.pdf)
 <br>
 Minchol&eacute;, **Zacur**, Lyon, Ariga, Cardone-Noott, Villard, Martinez-Navarro, Bueno-Orovio, Watkins, Grau, and Rodriguez.
@@ -572,7 +606,7 @@ Minchol&eacute;, **Zacur**, Lyon, Ariga, Cardone-Noott, Villard, Martinez-Navarr
 In: Gordon Conference on Cardiac Arrhythmia Mechanisms. (Ventura, United States), Feb. 2017.
 
 
-1. ***Assessment of Left Ventricular Shape and Remodelling Pattern in Severe Aortic Stenosis Before and After Aortic Valve Replacement.***
+19. ***Assessment of Left Ventricular Shape and Remodelling Pattern in Severe Aortic Stenosis Before and After Aortic Valve Replacement.***
 <br>
 Mahmod, **Zacur**, D'Souza, Francis, Ariga, Raman, Dass, Myerson, Karamitsos, Neubauer, and Lamata.
 <br>
@@ -581,7 +615,7 @@ In: Annual Scientific Sessions of the Society for Cardiovascular Magnetic Resona
 Washington, United States, Jan. 2017.
 
 
-1. ***Correction of Slice Misalignment in Multi-breath-hold Cardiac MRI Scans.***
+18. ***Correction of Slice Misalignment in Multi-breath-hold Cardiac MRI Scans.***
 [![](pdf_icon.gif)](pdfs/STACOM_2016.pdf)
 <br>
 Villard, **Zacur**, Dall'Armellina, and Grau.
@@ -592,7 +626,7 @@ Athens, Greece, Oct. 2016.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-52718-5_4)
 
 
-1. ***Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest.***
+17. ***Myocardial Infarction Detection from Left Ventricular Shapes Using a Random Forest.***
 [![](pdf_icon.gif)](pdfs/STACOM_2015.pdf)
 <br>
 Allen, **Zacur**, Dall'Armellina, Lamata, and Grau.
@@ -603,7 +637,7 @@ Munich, Germany, Oct. 2015.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-28712-6_20)
 
 
-1. ***Revealing Differences in Anatomical Remodelling of the Systemic Right Ventricle.***
+16. ***Revealing Differences in Anatomical Remodelling of the Systemic Right Ventricle.***
 [![](pdf_icon.gif)](pdfs/FIMH_2015.pdf)
 <br>
 **Zacur**, Wong, Razavi, Geva, Greil, and Lamata.
@@ -614,7 +648,7 @@ Maastricht, Netherlands, June 2015.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-319-20309-6_12)
 
 
-1. ***A Right-Invariant Riemannian Distance on GL+(n) and Hypothesis Testing on Jacobian Matrices.***
+15. ***A Right-Invariant Riemannian Distance on GL+(n) and Hypothesis Testing on Jacobian Matrices.***
 [![](pdf_icon.gif)](pdfs/MFCA_2013.pdf)
 <br>
 **Zacur**, Bossa, and Olmos.
@@ -624,7 +658,7 @@ In: MICCAI Workshop on Mathematical Foundation of Computational Anatomy (MFCA).
 Nagoya, Japan, Sept. 2013.
 
 
-1. ***Efficient Characterization of Repolarization Adaptation to Heart Rate Changes.***
+14. ***Efficient Characterization of Repolarization Adaptation to Heart Rate Changes.***
 [![](pdf_icon.gif)](pdfs/BSI_2012.pdf)
 <br>
 Minchol&eacute;, **Zacur**, Pueyo, and Laguna.
@@ -634,7 +668,7 @@ In: International Workshop on Biosignal Interpretation (BSI).
 Como, Italy, July 2012.
 
 
-1. ***On Changing Coordinate Systems for Longitudinal Tensor-based Morphometry.***
+13. ***On Changing Coordinate Systems for Longitudinal Tensor-based Morphometry.***
 [![](pdf_icon.gif)](pdfs/STIA_2010.pdf)
 <br>
 Bossa, **Zacur**, and Olmos.
@@ -644,7 +678,7 @@ In: MICCAI Workshop on Spatio-Temporal Image Analysis for Longitudinal and Time-
 Beijing, China, Sept. 2010.
 
 
-1. ***Evaluation of a Method for Quantification of Restitution Dispersion from the Surface ECG.***
+12. ***Evaluation of a Method for Quantification of Restitution Dispersion from the Surface ECG.***
 [![](pdf_icon.gif)](pdfs/CinC_2010.pdf)
 <br>
 Minchol&eacute;, Pueyo, Rodr&iacute;guez, **Zacur**, Doblar&eacute;, and Laguna.
@@ -654,7 +688,8 @@ In: Computing in Cardiology (CinC).
 Belfast, United Kingdom, Sept. 2010.
 
 
-1. ***Selection of Registration Parameters with Diffeomorphic Registration for TBM on ADNI Data.***
+11. ***Selection of Registration Parameters with Diffeomorphic Registration for TBM on ADNI Data.***
+[![](pdf_icon.gif)](pdfs/OHBM_2010b.pdf)
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
@@ -663,7 +698,8 @@ In: Organization for Human Brain Mapping (OHBM).
 Barcelona, Spain, June 2010.
 
 
-1. ***On Alignment Techniques for Statistical Shape Analysis Brain Structures Using Landmark Coordinates.***
+10. ***On Alignment Techniques for Statistical Shape Analysis Brain Structures Using Landmark Coordinates.***
+[![](pdf_icon.gif)](pdfs/OHBM_2010a.pdf)
 <br>
 Bossa, **Zacur**, and Olmos.
 <br>
@@ -672,7 +708,7 @@ In: Organization for Human Brain Mapping (OHBM).
 Barcelona, Spain, June 2010.
 
 
-1. ***Dispersion of Action Potential Restitution Quantified from the Surface Electrocardiogram.***
+9. ***Dispersion of Action Potential Restitution Quantified from the Surface Electrocardiogram.***
 <br>
 Minchol&eacute;, Pueyo, Rodr&iacute;guez, **Zacur**, and Laguna.
 <br>
@@ -681,7 +717,7 @@ In: Annual Meeting of International Society for Computerized Electrocardiology (
 Albuquerque, United States, Apr. 2010.
 
 
-1. ***Tensor-Based Morphometry with Mappings Parameterized by Stationary Velocity Fields in Alzheimer's Disease Neuroimaging Initiative.***
+8. ***Tensor-Based Morphometry with Mappings Parameterized by Stationary Velocity Fields in Alzheimer's Disease Neuroimaging Initiative.***
 [![](pdf_icon.gif)](pdfs/MICCAI_2009.pdf)
 <br>
 Bossa, **Zacur**, and Olmos.
@@ -692,7 +728,7 @@ London, United Kingdom, Sept. 2009 **(awarded with the 'Best Poster Session Awar
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-642-04271-3_30)
 
 
-1. ***Algorithms for Computing the Group Exponential of Diffeomorphisms: Performance Evaluation.***
+7. ***Algorithms for Computing the Group Exponential of Diffeomorphisms: Performance Evaluation.***
 [![](pdf_icon.gif)](pdfs/MMBIA_2008.pdf)
 <br>
 Bossa, **Zacur**, and Olmos.
@@ -703,7 +739,7 @@ Anchorage, United States, June 2008.
 [![](doi_icon.gif)](http://doi.org/10.1109/CVPRW.2008.4563005)
 
 
-1. ***A MAYA Plugin to Transfer Facial Expressions to Different Face Models.***
+6. ***A MAYA Plugin to Transfer Facial Expressions to Different Face Models.***
 [![](pdf_icon.gif)](pdfs/iDiG_2006.pdf)
 <br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.
@@ -713,7 +749,7 @@ In: International Digital Games Conference (iDiG).
 Portalegre, Portugal, Sept. 2006.
 
 
-1. ***Transferring Facial Expressions to Different Face Models.***
+5. ***Transferring Facial Expressions to Different Face Models.***
 [![](pdf_icon.gif)](pdfs/SIACG_2006.pdf)
 <br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.
@@ -723,7 +759,7 @@ In: Ibero-American Symposium in Computer Graphics (SIACG).
 Santiago de Compostela, Spain, July 2006.
 
 
-1. ***Transferring a Labeled Generic Rig to Animate Face Models.***
+4. ***Transferring a Labeled Generic Rig to Animate Face Models.***
 [![](pdf_icon.gif)](pdfs/AMDO_2006.pdf)
 <br>
 Costa Orvalho, **Zacur**, and Sus&iacute;n.
@@ -734,14 +770,14 @@ Mallorca, Spain, July 2006.
 [![](doi_icon.gif)](http://doi.org/10.1007/11789239_23)
 
 
-1. ***Novel Equipment to Characterize Hydride Forming Materials Cycling Stability.***
+3. ***Novel Equipment to Characterize Hydride Forming Materials Cycling Stability.***
 <br>
 Talaga&ntilde;is, **Zacur**, Lacharmoise, Castro, and Meyer.
 <br>
 In: World Hydrogen Energy Conference. (Lyon, France), June 2006.
 
 
-1. ***Base de Datos Audiovisual y Multicanal en Castellano para Reconocimiento Autom&aacute;tico del Habla en el Autom&oacute;vil.***
+2. ***Base de Datos Audiovisual y Multicanal en Castellano para Reconocimiento Autom&aacute;tico del Habla en el Autom&oacute;vil.***
 [![](pdf_icon.gif)](pdfs/TecHabla_2004.pdf)
 <br>
 Ortega, Sukno, Lleida, Frangi, Miguel, Buera, and **Zacur**.
