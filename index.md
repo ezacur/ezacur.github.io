@@ -810,4 +810,6 @@ Lisbon, Portugal, May 2004.
 
 --------------------------------
 
+<!---
 ![Visitor Count](https://profile-counter.glitch.me/ZXphY3VyLmdpdGh1Yi5pbw==/count.svg)
+-->
