@@ -49,13 +49,15 @@ In: Frontiers in Cardiovascular Medicine 9 (2022).
 ![Open Access](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Bertagnolli22_Hypertension.pdf)
 <br>
-Bertagnolli, Dartora, Lamata, **Zacur**, Mai-Vo, He, Beauchamp, Lewandowski, Cloutier, Sutherland, Santos, and Nuyt. 
+Bertagnolli, Dartora, Lamata, **Zacur**, Mai-Vo, He, Beauchamp, Lewandowski, Cloutier, Sutherland, Santos, and Nuyt.
 <br>
 In: Hypertension 79.8 (2022), pp. 1789&ndash;1803.
 [![](bibtex_icon.gif)](bibs/Bertagnolli22_Hypertension.bib)
 [![](doi_icon.gif)](http://doi.org/10.1161/HYPERTENSIONAHA.122.19115)
 
 30. ***Assessing Noninvasive Delineation of Low-Voltage Zones Using ECG Imaging in Patients With Structural Heart Disease.***
+![Open Access](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Graham22_JACC_Clinical_Electrophysiology.pdf)
 <br>
 Graham, Orini, **Zacur**, Dhillon, Jones, Prabhu, Pugliese, Lowe, Ahsan, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.
 <br>
@@ -402,7 +404,7 @@ In: Review of Scientific Instruments 78.2 (2007), 023903.
 40. ***Post-Infarction Risk Prediction with Mesh Classification Networks.***
 [![](pdf_icon.gif)](pdfs/STACOM_2022b.pdf)
 <br>
-Beetz, Corral-Acero, Banerjee, Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau. 
+Beetz, Corral-Acero, Banerjee, Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau.
 <br>
 In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM).
 <br>
@@ -468,7 +470,7 @@ Shenzhen, China, Oct. 2019.
 <br>
 Corral-Acero, Xu, **Zacur**, Schneider, Lamata, Bueno-Orovio, and Grau.
 <br>
-In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). 
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM).
 <br>
 Shenzhen, China, Oct. 2019 (winner of the 'Left Ventricle Full Quantification Challenge').
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-39074-7_40)
@@ -509,7 +511,7 @@ Lisbon, Portugal, Mar. 2019.
 <br>
 Villard, **Zacur**, and Grau.
 <br>
-In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM). 
+In: MICCAI Workshop on Statistical Atlases and Computational Models of the Heart (STACOM).
 <br>
 Granada, Spain, Sept. 2018.
 [![](doi_icon.gif)](http://doi.org/10.1007/978-3-030-12029-0_19)
@@ -799,7 +801,4 @@ Lisbon, Portugal, May 2004.
 
 --------------------------------
 
-
-
 ![Visitor Count](https://profile-counter.glitch.me/ZXphY3VyLmdpdGh1Yi5pbw==/count.svg)
-
