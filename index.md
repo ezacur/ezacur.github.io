@@ -29,29 +29,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -------------------------------
 # List of papers in Journals
 
 {: reversed="reversed"}
+
+
+31. ***Reshaping the Preterm Heart: Shifting Cardiac Renin-Angiotensin System Towards Cardioprotection in Rats Exposed to Neonatal High-Oxygen Stress.***
+![Open Access](open_access.gif)
+[![](pdf_icon.gif)](pdfs/Bertagnolli22_Hypertension.pdf)
+<br>
+Bertagnolli, Dartora, Lamata, **Zacur**, Mai-Vo, He, Beauchamp, Lewandowski, Cloutier, Sutherland, Santos, and Nuyt. 
+<br>
+In: Hypertension 79.8 (2022), pp. 1789&ndash;1803.
+[![](bibtex_icon.gif)](bibs/Bertagnolli22_Hypertension.bib)
+[![](doi_icon.gif)](http://doi.org/10.1161/HYPERTENSIONAHA.122.19115)
+
 30. ***Assessing Noninvasive Delineation of Low-Voltage Zones Using ECG Imaging in Patients With Structural Heart Disease.***
 <br>
 Graham, Orini, **Zacur**, Dhillon, Jones, Prabhu, Pugliese, Lowe, Ahsan, Earley, Chow, Sporton, Dhinoja, Hunter, Schilling, and Lambiase.
 <br>
-In: JACC: Clinical Electrophysiology (in press, available online).
+In: JACC: Clinical Electrophysiology 8.4 (2022), pp. 426&ndash;436.
 [![](bibtex_icon.gif)](bibs/Graham22_JACC_Clinical_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.11.011)
 
@@ -69,10 +67,11 @@ In: JACC: Cardiovascular Imaging (in press, available online).
 
 
 28. ***Detailed Assessment of Low-voltage Zones Localization by Cardiac MRI in Patients with Implantable Devices.***
+[![](pdf_icon.gif)](pdfs/Orini22_JACC_Clinical_Electrophysiology.pdf)
 <br>
 Orini, Seraphim, Graham, Bhuva, **Zacur**, Kellman, Schilling, Hunter, Dhinoja, Finlay, Ahsan, Chow, Moon, Lambiase, and Manisty.
 <br>
-In: JACC: Clinical Electrophysiology (in press, available online).
+In: JACC: Clinical Electrophysiology 8.2 (2022), pp. 225&ndash;235.
 [![](bibtex_icon.gif)](bibs/Orini22_JACC_Clinical_Electrophysiology.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jacep.2021.10.002)
 
