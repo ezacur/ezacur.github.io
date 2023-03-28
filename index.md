@@ -221,7 +221,6 @@ Lyon, Bueno-Orovio, **Zacur**, Ariga, Grau, Neubauer, Watkins, Rodriguez, and Mi
 [![](doi_icon.gif)](http://doi.org/10.1093/europace/euy226)
 
 
-
 16. ***Surface Mesh Reconstruction from Cardiac MRI Contours.***
 ![](open_access.gif)
 [![](pdf_icon.gif)](pdfs/Villard18_Journal_of_Imaging.pdf)
@@ -232,7 +231,6 @@ Villard, Grau, and **Zacur**.
 [![](bibtex_icon.gif)](bibs/Villard18_Journal_of_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.3390/jimaging4010016)
 [**CODE**](https://github.com/BenVillard/surfco)
-
 
 
 15. ***An Asymmetric Wall-Thickening Pattern Predicts Response to Cardiac Resynchronization Therapy.***
