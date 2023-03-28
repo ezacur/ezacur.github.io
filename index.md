@@ -295,6 +295,7 @@ Varela, Bisbal, **Zacur**, Guiu, Berruezo, Sitges, Prat, Aslanidi, Mont, and Lam
 *In: SIAM Journal on Imaging Sciences 7.3 (2014), pp. 1503&ndash;1557.*
 [![](bibtex_icon.gif)](bibs/Zacur14_SIAM_Journal_on_Imaging_Sciences.bib)
 [![](doi_icon.gif)](http://doi.org/10.1137/130928352)
+[**CODE**](https://github.com/ezacur/LIgeodesics)
 
 
 
