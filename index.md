@@ -328,7 +328,7 @@ Minchol&eacute;, **Zacur**, Pueyo, and Laguna.
 *In: Methods of Information in Medicine 53.4 (2014), pp. 324&ndash;328.*
 [![](bibtex_icon.gif)](bibs/Minchole14_Methods_of_Information_in_Medicine.bib)
 [![](doi_icon.gif)](http://doi.org/10.3414/ME13-02-0040)
-
+[**CODE**](https://github.com/ezacur/Lcurve)
 
 
 6. ***Quantification of Restitution Dispersion From the Dynamic Changes of the T-Wave Peak to End, Measured at the Surface ECG.***
