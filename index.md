@@ -25,7 +25,7 @@
 * **2002**
     > **BSc in Physics**
     >
-    > Balseiro Institute, National University of Cuyo, Bariloche, Argentina.
+    > [Balseiro Institute](http://www.ib.edu.ar/), National University of Cuyo, Bariloche, Argentina.
 
 
 
@@ -34,8 +34,7 @@
 
 {: reversed="reversed"}
 
-32. ***Interpretable cardiac anatomy modeling using variational mesh autoencoders.***
-![Open Access](open_access.png)
+32. ![Open Access](open_access.gif)***Interpretable cardiac anatomy modeling using variational mesh autoencoders.***
 [![](pdf_icon.gif)](pdfs/Beetz22_Frontiers_in_Cardiovascular_Medicine.pdf)
 <br>
 Beetz, Corral-Acero, Banerjee,  Eitel, **Zacur**, Lange, Stiermaier, Evertz, Backhaus, Thiele, Bueno-Orovio, Lamata, Schuster, and Grau.
@@ -798,4 +797,8 @@ Lisbon, Portugal, May 2004.
 
 
 --------------------------------
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/ezacur_github_io/count.svg)
 
