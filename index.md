@@ -75,7 +75,7 @@ Corral-Acero, Schuster, **Zacur**, Lange, Stiermaier, Backhaus, Thiele, Bueno-Or
 *In: JACC: Cardiovascular Imaging 15.9 (2022), pp. 1563&ndash;1574.*
 [![](bibtex_icon.gif)](bibs/CorralAcero22_JACC_Cardiovascular_Imaging.bib)
 [![](doi_icon.gif)](http://doi.org/10.1016/j.jcmg.2021.11.027)
-
+[**CODE**](https://figshare.com/articles/dataset/Automated_3D_analysis_of_left_ventricular_shape_and_contraction_improves_risk_assessment_after_acute_myocardial_infarction/13665941)
 
 
 28. ***Detailed Assessment of Low-voltage Zones Localization by Cardiac MRI in Patients with Implantable Devices.***
